@@ -12,7 +12,7 @@ Various forms of shot shells are sold for pistols.  They go by various names lik
 - posted by: [kbyrd](https://stackexchange.com/users/-1/37-kbyrd) on 2011-11-09
 - score: 7
 
-Various forms of shot shells are sold for pistols.  They go by various names like snake shot, rat shot, varmit shot, etc.  Will the use of these cartridges generally cause harm to the rifling of a pistol?
+Most of these shotshell cartridges for pistols have lead shot which will not harm a rifled barrel, but it will foul the rifling pretty quickly. If the cartridge contains steel shot, it's possible it could damage your barrel. 
 
 
 

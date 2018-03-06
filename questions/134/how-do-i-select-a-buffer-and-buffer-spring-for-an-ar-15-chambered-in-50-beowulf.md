@@ -31,16 +31,15 @@ Any suggestions on selecting a buffer and spring to maximize reliability?
 - posted by: [Bryson](https://stackexchange.com/users/-1/32-bryson) on 2011-11-02
 - score: 2
 
-<p><strong>The only real way to know is to take what is recommended, evaluate any malfunctions you may experience with these parts, and make adjustments to your system based on your findings.</strong></p>
+<strong>The only real way to know is to take what is recommended, evaluate any malfunctions you may experience with these parts, and make adjustments to your system based on your findings.</strong>
 
-<p>Everything I have read about .50 Beowulf dictates that a standard rifle buffer and buffer tube are designed to function properly. Additionally, Alexander Arms themselves have said in a carbine system should use carbine-system parts.</p>
+Everything I have read about .50 Beowulf dictates that a standard rifle buffer and buffer tube are designed to function properly. Additionally, Alexander Arms themselves have said in a carbine system should use carbine-system parts.
 
-<p>I would take this to mean that any parts that make a carbine run properly will make the .50 Beowulf carbine run properly.</p>
+I would take this to mean that any parts that make a carbine run properly will make the .50 Beowulf carbine run properly.
 
-<p>Like any carbine system, the ammo you use as well as various aspects of your rifle (gas system length, gas port size, etc.) may have small-but-significant effects on your rifle's functioning.</p>
+Like any carbine system, the ammo you use as well as various aspects of your rifle (gas system length, gas port size, etc.) may have small-but-significant effects on your rifle's functioning.
 
-<p>One buffer system that has increased reliability of carbine systems is the VLTOR A5 buffer system (I have seen it used with <em>great</em> effect on carbines as short as 11.5" Colt 6933s, and will be installing it on both of mine). You can get it as a <a href="http://www.vltorstore.com/products/A5-Spring-and-Buffer-Kit.html" rel="nofollow">system</a> or as a <a href="http://www.vltorstore.com/products/A5-Receiver-Extension-Tube.html" rel="nofollow">buffer tube</a> and <a href="http://www.vltorstore.com/products/A5-Spring-and-Buffer-Kit.html" rel="nofollow">spring and buffer</a> separately to reuse your own stock. Another benefit of this system is that it softens the recoil impulse and smooths the feeding of the rifle. This system has multiple available buffer weights, similar to the regular carbine and rifle systems, so tuning any issues you have with it is certainly possible. </p>
-
+One buffer system that has increased reliability of carbine systems is the VLTOR A5 buffer system (I have seen it used with <em>great</em> effect on carbines as short as 11.5" Colt 6933s, and will be installing it on both of mine). You can get it as a <a href="http://www.vltorstore.com/products/A5-Spring-and-Buffer-Kit.html">system</a> or as a <a href="http://www.vltorstore.com/products/A5-Receiver-Extension-Tube.html">buffer tube</a> and <a href="http://www.vltorstore.com/products/A5-Spring-and-Buffer-Kit.html">spring and buffer</a> separately to reuse your own stock. Another benefit of this system is that it softens the recoil impulse and smooths the feeding of the rifle. This system has multiple available buffer weights, similar to the regular carbine and rifle systems, so tuning any issues you have with it is certainly possible. 
 
 
 

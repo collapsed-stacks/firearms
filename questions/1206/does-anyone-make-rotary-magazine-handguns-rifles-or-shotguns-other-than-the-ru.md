@@ -14,9 +14,10 @@ Do any handguns, rifles, or shotguns have rotary magazines by default, and not a
 - posted by: [M. Werner](https://stackexchange.com/users/-1/313-m-werner) on 2012-04-10
 - score: 3
 
-The Ruger 10-22 has a rotary magazine.
+The fairly prestigious line of Manlicher-Schönauer rifles featured rotary magazines, as did the [Johnson military rifle](http://world.guns.ru/rifle/autoloading-rifles/usa/m1941-johnson-e.html) which was narrowly beaten by the Garand design for the WWII service rifle.
 
-Do any handguns, rifles, or shotguns have rotary magazines by default, and not as add-on, Thompson-like appendages?
+The strange Dardick pistol used an odd magazine-fed revolving action and
+I'm sure there have been others.
 
 
 ## Answer 1213
@@ -24,9 +25,9 @@ Do any handguns, rifles, or shotguns have rotary magazines by default, and not a
 - posted by: [Czechnology](https://stackexchange.com/users/-1/101-czechnology) on 2012-04-10
 - score: 2
 
-The Ruger 10-22 has a rotary magazine.
+Not sure if that's exactly what you're looking for but the american [Calico SMG](http://world.guns.ru/smg/usa/calico-e.html) and the soviet [Bizon SMG](http://world.guns.ru/smg/rus/pp-19-bizon-e.html) have special cylindrical magazines.
 
-Do any handguns, rifles, or shotguns have rotary magazines by default, and not as add-on, Thompson-like appendages?
+![Calico 9mm magazine](http://world.guns.ru/userfiles/images/smg/smg57/calico-mag.jpg)
 
 
 ## Answer 1216
@@ -34,9 +35,7 @@ Do any handguns, rifles, or shotguns have rotary magazines by default, and not a
 - posted by: [mace](https://stackexchange.com/users/-1/163-mace) on 2012-04-11
 - score: 1
 
-The Ruger 10-22 has a rotary magazine.
-
-Do any handguns, rifles, or shotguns have rotary magazines by default, and not as add-on, Thompson-like appendages?
+The [Ruger 77](http://www.ruger.com/products/rotaryMagazine/index.html) bolt-action rifles also use rotary magazines and are still in production.
 
 
 

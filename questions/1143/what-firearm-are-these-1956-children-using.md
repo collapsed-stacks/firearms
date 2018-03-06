@@ -43,8 +43,7 @@ What make and model of rifle is this? Can you tell from the images alone?
 - posted by: [PhilB](https://stackexchange.com/users/-1/448-philb) on 2012-03-13
 - score: 1
 
-<p>Could also be a Remington Model 11. Essentially the same as a Browning Auto-5. Hard to tell for sure.</p>
-
+Could also be a Remington Model 11. Essentially the same as a Browning Auto-5. Hard to tell for sure.
 
 
 ## Answer 1144
@@ -52,8 +51,7 @@ What make and model of rifle is this? Can you tell from the images alone?
 - posted by: [M. Werner](https://stackexchange.com/users/-1/313-m-werner) on 2012-03-12
 - score: 0
 
-<p>It's a very long-barreled shotgun, an autoloader.  However the child's hand obscures the receiver, and I can't tell the model.</p>
-
+It's a very long-barreled shotgun, an autoloader.  However the child's hand obscures the receiver, and I can't tell the model.
 
 
 

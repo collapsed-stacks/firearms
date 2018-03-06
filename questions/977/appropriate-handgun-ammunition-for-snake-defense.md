@@ -26,8 +26,7 @@ What type of handgun and what type of ammunition is most effective against snake
 - posted by: [Mashashin](https://stackexchange.com/users/-1/212-mashashin) on 2012-01-27
 - score: 4
 
-<p>You can get a shot shell in just about any regular caliber even for the .40 it seems you may already have. personally I carry a .22 derringer loaded with shot shell and seems to have worked well the 2 times I have used it.</p>
-
+You can get a shot shell in just about any regular caliber even for the .40 it seems you may already have. personally I carry a .22 derringer loaded with shot shell and seems to have worked well the 2 times I have used it.
 
 
 ## Answer 982
@@ -35,8 +34,7 @@ What type of handgun and what type of ammunition is most effective against snake
 - posted by: [CarolusIV](https://stackexchange.com/users/-1/383-carolusiv) on 2012-01-28
 - score: 3
 
-<p>Nothing quite beats birdshot from handy 12 gauge, to be honest. If you must use a handgun, since long guns can be a pain to bring on a hike, a .410 pistol like the judge or S&amp;W Governor should solve your problem. In this caliber, again, you'll want to use birdshot rather than buckshot. Even .38 shotshells will do in a pinch, and those you can fire from a .38 Special or .357 Magnum revolver.</p>
-
+Nothing quite beats birdshot from handy 12 gauge, to be honest. If you must use a handgun, since long guns can be a pain to bring on a hike, a .410 pistol like the judge or S&W Governor should solve your problem. In this caliber, again, you'll want to use birdshot rather than buckshot. Even .38 shotshells will do in a pinch, and those you can fire from a .38 Special or .357 Magnum revolver.
 
 
 ## Answer 995

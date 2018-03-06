@@ -16,13 +16,11 @@ For additional references see: http://www.frfrogspad.com/homemade.htm#Oil
 - posted by: [Daniel Chisholm](https://stackexchange.com/users/-1/36-daniel-chisholm) on 2012-03-21
 - score: 3
 
-<blockquote>
-  <p><em>firearms didn't invent high temperature, metal on metal friction surfaces</em></p>
-</blockquote>
+> *firearms didn't invent high temperature, metal on metal friction surfaces*
 
-<p>Exactly right.  Oftentimes excellent results can be had from non-firearms-specific lubrication products.</p>
+Exactly right.  Oftentimes excellent results can be had from non-firearms-specific lubrication products.
 
-<p>There are several different types of lubricant needed, depending on the purpose/requirement of the joint/surface of the firearm in consideration.  For example, the bolt lugs of a rifle need to have lubricant that stays in place even in the face of high pressure sliding/wiping contact.  A pretty ordinary grease does a good job of this, whereas a high tech high performance oil might not stay there after several dozen (or hundreds) of cycles - it's not that the high tech gun oil is a poor lube, it's just that it doesn't fit that particular application well.  But on the bolt body of a rifle or the slide of a pistol the applicability is probably reversed.</p>
+There are several different types of lubricant needed, depending on the purpose/requirement of the joint/surface of the firearm in consideration.  For example, the bolt lugs of a rifle need to have lubricant that stays in place even in the face of high pressure sliding/wiping contact.  A pretty ordinary grease does a good job of this, whereas a high tech high performance oil might not stay there after several dozen (or hundreds) of cycles - it's not that the high tech gun oil is a poor lube, it's just that it doesn't fit that particular application well.  But on the bolt body of a rifle or the slide of a pistol the applicability is probably reversed.
 
 
 
@@ -42,8 +40,7 @@ For additional references see: http://www.frfrogspad.com/homemade.htm#Oil
 - posted by: [GI_Jared](https://stackexchange.com/users/-1/488-gi-jared) on 2012-03-24
 - score: 1
 
-<p>I use a 50/50 mix of ATF (automatic transmission fluid) and 5w30 (oil weight is not to big of an issue) synthetic motor oil. Having used CLP in the military (4years, Infantry, 82nd Abn) I have found that this mixture dissolves carbon much better and prevents the gun from getting dirty better as well. As of now I have only used it on my ARs, but have plans to start using it on my pistols as well. </p>
-
+I use a 50/50 mix of ATF (automatic transmission fluid) and 5w30 (oil weight is not to big of an issue) synthetic motor oil. Having used CLP in the military (4years, Infantry, 82nd Abn) I have found that this mixture dissolves carbon much better and prevents the gun from getting dirty better as well. As of now I have only used it on my ARs, but have plans to start using it on my pistols as well. 
 
 
 ## Answer 1164
@@ -51,12 +48,11 @@ For additional references see: http://www.frfrogspad.com/homemade.htm#Oil
 - posted by: [Ray J](https://stackexchange.com/users/-1/166-ray-j) on 2012-03-21
 - score: 0
 
-<p>I am not a fan of using grease as a lube.  I explain in the following Q &amp; As...</p>
+I am not a fan of using grease as a lube.  I explain in the following Q & As...
 
-<p><a href="http://firearms.stackexchange.com/questions/549/lubrication-methods-oil-vs-grease/589#589">Lubrication Methods: Oil vs Grease?</a></p>
+http://firearms.stackexchange.com/questions/549/lubrication-methods-oil-vs-grease/589#589
 
-<p><a href="http://firearms.stackexchange.com/questions/543/how-should-i-lubricate-my-1911/582#582">How should I lubricate my 1911?</a></p>
-
+http://firearms.stackexchange.com/questions/543/how-should-i-lubricate-my-1911/582#582
 
 
 

@@ -12,7 +12,7 @@ I have a TOZ-78 .22 rifle.  All the magazines that came with it are plastic.  Ha
 - posted by: [OldWolf](https://stackexchange.com/users/-1/111-oldwolf) on 2012-03-29
 - score: 1
 
-I have a TOZ-78 .22 rifle.  All the magazines that came with it are plastic.  Has anyone seen magazines made of more durable materials or magazines from other arms that will function with it.
+I know it should be the same as the Winchester Wildcat, but I have not seen any magazines other than plastic for them.
 
 
 

@@ -12,7 +12,7 @@ Does anyone make a mount for a Burris FastFire II red dot reflex sight that fits
 - posted by: [OldWolf](https://stackexchange.com/users/-1/111-oldwolf) on 2011-12-02
 - score: 0
 
-Does anyone make a mount for a Burris FastFire II red dot reflex sight that fits on a Taurus PT-845? Burris makes a mount for a 1911-style Novak dovetail but the angles are not exactly correct. I would rather not have to machine the sight or the slide as I do not have the skill nor tools to do so. Any suggestions?
+I don't see one specific to your firearm. My best suggestion would be to try and match one of the many dovetail type mounts they have [here](http://swfa.com/Burris-FastFire-Mounts-C625.aspx?s=Name%20ASC&p=0), to yours. Otherwise, as you say, your only other choice would be having something custom machined. Either your slide or a custom mount.
 
 
 

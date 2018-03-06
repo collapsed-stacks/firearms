@@ -42,13 +42,13 @@ How can the magazine safety on the [Ruger Mark III][1] be disabled so that disas
 - posted by: [Ray J](https://stackexchange.com/users/-1/166-ray-j) on 2011-11-24
 - score: -1
 
-<p>Do these videos help?</p>
+Do these videos help?
 
-<p>Part I    <a href="http://www.youtube.com/watch?v=QWHEMJDFBSc" rel="nofollow">http://www.youtube.com/watch?v=QWHEMJDFBSc</a></p>
+Part I    http://www.youtube.com/watch?v=QWHEMJDFBSc
 
-<p>Part II   <a href="http://www.youtube.com/watch?v=E35jZoQKmUk" rel="nofollow">http://www.youtube.com/watch?v=E35jZoQKmUk</a></p>
+Part II   http://www.youtube.com/watch?v=E35jZoQKmUk
 
-<p>Part III  <a href="http://www.youtube.com/watch?v=bHvqApQTcss" rel="nofollow">http://www.youtube.com/watch?v=bHvqApQTcss</a> </p>
+Part III  http://www.youtube.com/watch?v=bHvqApQTcss 
 
 
 

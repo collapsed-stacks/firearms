@@ -17,8 +17,7 @@ How likely is it that using this would harm the *barrel* of the gun?  I'm going 
 - posted by: [OldWolf](https://stackexchange.com/users/-1/111-oldwolf) on 2012-02-10
 - score: 1
 
-<p>The shotshell adapters are probably fine, but there's no provision for an extractor so you might need to bump the spent cartridge out with a cleaning rod. <a href="http://rads.stackoverflow.com/amzn/click/B004BAVOV4" rel="nofollow">Reviews</a> on Amazon state the pistol cartridge adapters are smooth bore, I'd be a bit more leery of using them. <a href="http://www.gaugemate.com/purchase/gaugemate-cartridge" rel="nofollow">GaugeMates</a> might be a better choice with their provision for an extractor, although it appears their <em>cartridge</em> adapters may be smooth bore as well.</p>
-
+The shotshell adapters are probably fine, but there's no provision for an extractor so you might need to bump the spent cartridge out with a cleaning rod. [Reviews](http://www.amazon.com/12-Gauge-Mag-Shotgun-Adapter/product-reviews/B004BAVOV4/ref=dp_top_cm_cr_acr_txt?ie=UTF8&showViewpoints=1) on Amazon state the pistol cartridge adapters are smooth bore, I'd be a bit more leery of using them. [GaugeMates](http://www.gaugemate.com/purchase/gaugemate-cartridge) might be a better choice with their provision for an extractor, although it appears their _cartridge_ adapters may be smooth bore as well.
 
 
 

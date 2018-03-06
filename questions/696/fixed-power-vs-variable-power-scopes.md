@@ -21,14 +21,13 @@ I'm trying to find a general comparison ... but if limit the comparison to simil
 - posted by: [Bryson](https://stackexchange.com/users/-1/32-bryson) on 2011-12-01
 - score: 3
 
-<p>The trade-off between fixed- and variable-power scopes is primarily flexibility for durability. In a fixed-power scope there are fewer moving parts and less to go wrong. They usually stand up better to hard impacts and especially hard use. What you give up is the ability to lower magnification and widen your field of view on closer-ranged or moving targets, or enhance the level of detail you're able to see by increasing magnification.</p>
+The trade-off between fixed- and variable-power scopes is primarily flexibility for durability. In a fixed-power scope there are fewer moving parts and less to go wrong. They usually stand up better to hard impacts and especially hard use. What you give up is the ability to lower magnification and widen your field of view on closer-ranged or moving targets, or enhance the level of detail you're able to see by increasing magnification.
 
-<p>Fixed power scopes are also less expensive to manufacture because of the decreased number of parts required. Because of this you're able to get a better quality scope for the same price as a lesser-quality variable-power scope. </p>
+Fixed power scopes are also less expensive to manufacture because of the decreased number of parts required. Because of this you're able to get a better quality scope for the same price as a lesser-quality variable-power scope. 
 
-<p>I've never done varmint hunting, so I'm not sure how much movement of the target is involved. Fixed-power scopes at close range can make it hard to quickly acquire a target and easy to lose them if they leave your field of vision. At longer ranges as the target fills less of the scope, this is mitigated.</p>
+I've never done varmint hunting, so I'm not sure how much movement of the target is involved. Fixed-power scopes at close range can make it hard to quickly acquire a target and easy to lose them if they leave your field of vision. At longer ranges as the target fills less of the scope, this is mitigated.
 
-<p>Another thing to keep in mind is that lower-quality, variable-power scopes often will not give you their highest magnification level without distorting the image in some way. I haven't done much reading about the SWFA glass because I've not considered buying it, but it may be another thing to look into for you before making your purchase.</p>
-
+Another thing to keep in mind is that lower-quality, variable-power scopes often will not give you their highest magnification level without distorting the image in some way. I haven't done much reading about the SWFA glass because I've not considered buying it, but it may be another thing to look into for you before making your purchase.
 
 
 

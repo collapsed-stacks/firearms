@@ -23,13 +23,13 @@ How should a new reloader approach the topic?
 - posted by: [Loke](https://stackexchange.com/users/-1/72-loke) on 2011-11-10
 - score: 4
 
-<p>The best would be to obtain reloading manuals from different manufacturers like Speer, Hornady etc. Primer use depends on the type of cartridge and there are definitely quirks to it's use. For instance, a 10mm round uses large pistol primers whereas a 40S&amp;W, which is essentially just a shorter 10mm, uses small pistol primers. </p>
+The best would be to obtain reloading manuals from different manufacturers like Speer, Hornady etc. Primer use depends on the type of cartridge and there are definitely quirks to it's use. For instance, a 10mm round uses large pistol primers whereas a 40S&W, which is essentially just a shorter 10mm, uses small pistol primers. 
 
-<p>Most primers are similar in function, one can argue that certain brands have a much lower failure to fire rate than others, but there is significant difference in the "hardness" of a primer. For instance, Wolf and CCI primers are known as being hard to light-up, while the Federal primers are the "softest" and very popular with the competition revolver shooting community as they generally have very light hammer strikes to lower the trigger pull weight.</p>
+Most primers are similar in function, one can argue that certain brands have a much lower failure to fire rate than others, but there is significant difference in the "hardness" of a primer. For instance, Wolf and CCI primers are known as being hard to light-up, while the Federal primers are the "softest" and very popular with the competition revolver shooting community as they generally have very light hammer strikes to lower the trigger pull weight.
 
-<p>again, best bet, is to read the reloading manuals and join a well reputed reloading community such as ammosmith.com or brianenos.com to get more tips.</p>
+again, best bet, is to read the reloading manuals and join a well reputed reloading community such as ammosmith.com or brianenos.com to get more tips.
 
-<p>hope that helps.</p>
+hope that helps.
 
 
 
@@ -38,8 +38,7 @@ How should a new reloader approach the topic?
 - posted by: [sdavids](https://stackexchange.com/users/-1/150-sdavids) on 2011-11-10
 - score: 2
 
-<p>If you are new to reloading, it is great idea to take a quick class on reloading which is probably available in your area. The next best thing is to get a book on reloading which will give you the proper formulas you want for your caliber. Reloading is a dangerous thing if you are unsure with what you are doing. If you put in too much powder your barrel can explode, if you don't put enough powder in the cartridge you will get a squib load - which can lead into a major issue if you end up firing another round right after. In short, if you are new to reloading please be consulted with someone who has experience with it to show you the ropes.</p>
-
+If you are new to reloading, it is great idea to take a quick class on reloading which is probably available in your area. The next best thing is to get a book on reloading which will give you the proper formulas you want for your caliber. Reloading is a dangerous thing if you are unsure with what you are doing. If you put in too much powder your barrel can explode, if you don't put enough powder in the cartridge you will get a squib load - which can lead into a major issue if you end up firing another round right after. In short, if you are new to reloading please be consulted with someone who has experience with it to show you the ropes.
 
 
 ## Answer 482
@@ -47,8 +46,7 @@ How should a new reloader approach the topic?
 - posted by: [Chris Upchurch](https://stackexchange.com/users/-1/79-chris-upchurch) on 2011-11-10
 - score: 0
 
-<p>A cartridge is only going to accept one size of primer.  A large rifle primer isn't going to fit in a cartridge with a small rifle primer pocket.</p>
-
+A cartridge is only going to accept one size of primer.  A large rifle primer isn't going to fit in a cartridge with a small rifle primer pocket.
 
 
 

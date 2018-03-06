@@ -29,10 +29,9 @@ In response to Gene's questions:
 - posted by: [Loke](https://stackexchange.com/users/-1/72-loke) on 2011-11-21
 - score: 2
 
-<p>It looks like the slide is getting stopped at the exact position you need to put it to remove the take-down pin. Perhaps check that area for burrs or carbon. Polish and give the pin a clean and see if it happens again. If you can't fix it, send it back to Ruger to get it fixed.</p>
+It looks like the slide is getting stopped at the exact position you need to put it to remove the take-down pin. Perhaps check that area for burrs or carbon. Polish and give the pin a clean and see if it happens again. If you can't fix it, send it back to Ruger to get it fixed.
 
-<p>hope that helps.</p>
-
+hope that helps.
 
 
 ## Answer 611
@@ -40,8 +39,7 @@ In response to Gene's questions:
 - posted by: [Gene Temple](https://stackexchange.com/users/-1/254-gene-temple) on 2011-11-21
 - score: 1
 
-<p>When you're testing, is the magazine inserted?  Does the problem occur after firing a shot, or only when you rack the slide to chamber a round?  If you're riding the slide forward (retarding its advance) it may not be a problem with the pistol per se.  If it doesn't do it when no magazine is inserted, you may have a damaged or defective magazine.  If it does it when firing, and without a magazine, disassemble it and look for burrs or unusual wear in the barrel locking mechanism.  It is the lockup that you are feeling right as the slide goes into / comes out of battery.</p>
-
+When you're testing, is the magazine inserted?  Does the problem occur after firing a shot, or only when you rack the slide to chamber a round?  If you're riding the slide forward (retarding its advance) it may not be a problem with the pistol per se.  If it doesn't do it when no magazine is inserted, you may have a damaged or defective magazine.  If it does it when firing, and without a magazine, disassemble it and look for burrs or unusual wear in the barrel locking mechanism.  It is the lockup that you are feeling right as the slide goes into / comes out of battery.
 
 
 ## Answer 622
@@ -58,8 +56,7 @@ In response to Gene's questions:
 - posted by: [blsub6](https://stackexchange.com/users/-1/18-blsub6) on 2012-02-26
 - score: 0
 
-<p>I have an LCP that used to do that only while there was a round in the chamber.  After 100 rounds of breaking in, you can still feel the bump, but it no longer sticks.  If you're still experiencing this after 500 rounds, I think it's time for a phone call to Ruger: 928-778-6555</p>
-
+I have an LCP that used to do that only while there was a round in the chamber.  After 100 rounds of breaking in, you can still feel the bump, but it no longer sticks.  If you're still experiencing this after 500 rounds, I think it's time for a phone call to Ruger: 928-778-6555
 
 
 

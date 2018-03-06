@@ -32,10 +32,9 @@ My question is would a heavier buffer and/or weaker spring help?  Should I prior
 - posted by: [MattB](https://stackexchange.com/users/-1/24-mattb) on 2011-11-02
 - score: 1
 
-<p>The longer the bullet stays in the barrel the more gas that builds up to push through the gas system.  I believe the buffer is too light (since it's expecting the lower strength of a carbine length gas system).  A weaker spring may slow things down a bit, but with the power provided by the rifle length gas system, I don't think it's necessary.</p>
+The longer the bullet stays in the barrel the more gas that builds up to push through the gas system.  I believe the buffer is too light (since it's expecting the lower strength of a carbine length gas system).  A weaker spring may slow things down a bit, but with the power provided by the rifle length gas system, I don't think it's necessary.
 
-<p>My suggestion: get a new buffer first then a new spring if absolutely necessary.  (Neither are extremely expensive, so replacing both at the same time would save some time.)</p>
-
+My suggestion: get a new buffer first then a new spring if absolutely necessary.  (Neither are extremely expensive, so replacing both at the same time would save some time.)
 
 
 ## Answer 369
@@ -43,8 +42,7 @@ My question is would a heavier buffer and/or weaker spring help?  Should I prior
 - posted by: [Ray J](https://stackexchange.com/users/-1/166-ray-j) on 2011-11-08
 - score: 1
 
-<p>Short stroking and the resulting failure to feed is usually indicative of a gas problem.  Not usually buffer problem.  Before swapping buffers and springs, check to ensure that the gas key on the carrier is installed and properly staked, and is not suffering blow by.</p>
-
+Short stroking and the resulting failure to feed is usually indicative of a gas problem.  Not usually buffer problem.  Before swapping buffers and springs, check to ensure that the gas key on the carrier is installed and properly staked, and is not suffering blow by.
 
 
 

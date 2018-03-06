@@ -23,16 +23,14 @@ What effects this type of change in the felt or apparent recoil of the rifle?
 - posted by: [Daniel Chisholm](https://stackexchange.com/users/-1/36-daniel-chisholm) on 2011-12-01
 - score: 2
 
-<p>The actual amount of recoil is a straightforward physics exercise (mass of the bullet times the speed of the bullet, plus mass of the powder gas times its average speed, will equal the mass of the rifle times the rifle's recoil speed).  But as you say though, there can be a really big difference in the subjective comfort level.  Here are some things that make a rifle more miserable to shoot:</p>
+The actual amount of recoil is a straightforward physics exercise (mass of the bullet times the speed of the bullet, plus mass of the powder gas times its average speed, will equal the mass of the rifle times the rifle's recoil speed).  But as you say though, there can be a really big difference in the subjective comfort level.  Here are some things that make a rifle more miserable to shoot:
 
-<ol>
-<li>more muzzle blast (e.g. from a shorter barrel, or a muzzle brake, or choice of cartridge/load that affects muzzle exit pressure).  The rifle doesn't actually hit you any harder, but it can become a pretty big psychological exercise to deal with this and not let it affect you</li>
-<li>rifle fit (an extension of the metal butt plate comment).  If a rifle has a hard and pokey bit of the stock that hits you just wrong, it will hurt you more than a rifle that fits your body better.</li>
-</ol>
+ 1. more muzzle blast (e.g. from a shorter barrel, or a muzzle brake, or choice of cartridge/load that affects muzzle exit pressure).  The rifle doesn't actually hit you any harder, but it can become a pretty big psychological exercise to deal with this and not let it affect you
+ 2. rifle fit (an extension of the metal butt plate comment).  If a rifle has a hard and pokey bit of the stock that hits you just wrong, it will hurt you more than a rifle that fits your body better.
 
-<p>For example, I have fired a Sako .375 H&amp;H in relative comfort; it's a powerful rifle but it fitted me reasonably well.  It's a handful, but it is not unpleasant nor painful.  But I have a Marlin 336 in .32 Win Special (30-30 equivalent) and the cheekpiece tends to whack my face pretty viciously - it is one of only two rifles I've ever fired that actually hurt me.</p>
+For example, I have fired a Sako .375 H&H in relative comfort; it's a powerful rifle but it fitted me reasonably well.  It's a handful, but it is not unpleasant nor painful.  But I have a Marlin 336 in .32 Win Special (30-30 equivalent) and the cheekpiece tends to whack my face pretty viciously - it is one of only two rifles I've ever fired that actually hurt me.
 
-<p>An interesting exercise to try if you have the opportunity to do this safely - take a .30-06 hunting rifle and from a standing position hold it at waist level horizontally (at "from the hip level", but hold it like a pendulum and don't rest the butt against you).  When you fire the rifle you'll be amazed at how little recoil there actually is, it just sort of gently pops back a few inches.  But if that rifle is held in such a way that the scope or stock gets a good run at you, it can really hurt.</p>
+An interesting exercise to try if you have the opportunity to do this safely - take a .30-06 hunting rifle and from a standing position hold it at waist level horizontally (at "from the hip level", but hold it like a pendulum and don't rest the butt against you).  When you fire the rifle you'll be amazed at how little recoil there actually is, it just sort of gently pops back a few inches.  But if that rifle is held in such a way that the scope or stock gets a good run at you, it can really hurt.
 
 
 
@@ -41,12 +39,11 @@ What effects this type of change in the felt or apparent recoil of the rifle?
 - posted by: [Chris Agocs](https://stackexchange.com/users/-1/12-chris-agocs) on 2011-12-01
 - score: 2
 
-<p>All of the rounds you mentioned are pushing similarly-heavy bullets up to similar speeds, and I assume all of the guns you're shooting are similarly massive. There's no semi-automatic system to absorb any of the recoil energy in any of the mentioned guns, so I would look at a difference in powder. Are the manufacturers different? Different gun powders burn at different rates, and it may well be the case that whoever manufactured your 7.62x54r used a relatively quick-burning powder to get the bullet up to speed more quickly. </p>
+All of the rounds you mentioned are pushing similarly-heavy bullets up to similar speeds, and I assume all of the guns you're shooting are similarly massive. There's no semi-automatic system to absorb any of the recoil energy in any of the mentioned guns, so I would look at a difference in powder. Are the manufacturers different? Different gun powders burn at different rates, and it may well be the case that whoever manufactured your 7.62x54r used a relatively quick-burning powder to get the bullet up to speed more quickly. 
 
-<p>To put it in easy-to-understand terms, it'd be the difference between me punching you in the shoulder, and me pushing against your shoulder gently for five minutes with my fist. You'll absorb the same energy either way, but the felt recoil will be much lower in the second case.</p>
+To put it in easy-to-understand terms, it'd be the difference between me punching you in the shoulder, and me pushing against your shoulder gently for five minutes with my fist. You'll absorb the same energy either way, but the felt recoil will be much lower in the second case.
 
-<p>In short, try ammunition of the same weight from different manufacturers and see if the felt recoil is different. </p>
-
+In short, try ammunition of the same weight from different manufacturers and see if the felt recoil is different. 
 
 
 ## Answer 708
@@ -54,14 +51,12 @@ What effects this type of change in the felt or apparent recoil of the rifle?
 - posted by: [Gene Temple](https://stackexchange.com/users/-1/254-gene-temple) on 2011-12-01
 - score: 2
 
-<p>A few major causes:</p>
+A few major causes:
 
-<ol>
-<li>Inertia - heavier rifles will have lower felt recoil.</li>
-<li>Absorption - semi-auto actions, rubber butt pads, stock flex etc. all soften felt recoil.</li>
-<li>Stock drop - the drop on the stock can affect felt recoil tremendously, but there's no good way to say what's better as it will depend on how you hold the rifle, and your shooting position.</li>
-<li>Ammo efficiency - the weight of any powder not burnt adds to recoil precisely as using a heavier bullet would.</li>
-</ol>
+1. Inertia - heavier rifles will have lower felt recoil.
+2. Absorption - semi-auto actions, rubber butt pads, stock flex etc. all soften felt recoil.
+3. Stock drop - the drop on the stock can affect felt recoil tremendously, but there's no good way to say what's better as it will depend on how you hold the rifle, and your shooting position.
+4. Ammo efficiency - the weight of any powder not burnt adds to recoil precisely as using a heavier bullet would.
 
 
 

@@ -17,8 +17,7 @@ How discreet are the PDA-style cases like below?  I personally would recognize i
 - posted by: [presidentender](https://stackexchange.com/users/-1/466-presidentender) on 2012-03-06
 - score: 3
 
-<p>The PDA cases won't raise anyone's eyebrows, because they look so very un-gun-like. The downside is that your draw will be slower.</p>
-
+The PDA cases won't raise anyone's eyebrows, because they look so very un-gun-like. The downside is that your draw will be slower.
 
 
 

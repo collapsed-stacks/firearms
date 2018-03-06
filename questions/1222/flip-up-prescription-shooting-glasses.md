@@ -21,20 +21,17 @@ Here's an example of a [sport flip-ups][1] that support prescription lenses, no 
 - posted by: [dotancohen](https://stackexchange.com/users/-1/489-dotancohen) on 2012-04-19
 - score: 0
 
-<p>I wear prescription glasses and just fire with them. One guy I know puts impact-resistant glasses over his prescription glasses, he uses the same type of impact-resistant glasses as one would use while drilling.</p>
+I wear prescription glasses and just fire with them. One guy I know puts impact-resistant glasses over his prescription glasses, he uses the same type of impact-resistant glasses as one would use while drilling.
 
-<p>I personally think that the use of special protection glasses while shooting is foolish. One is generally shooting for one of three reasons:</p>
+I personally think that the use of special protection glasses while shooting is foolish. One is generally shooting for one of three reasons:
 
-<ol>
-<li>To familiarize himself with the weapon and to zero it.</li>
-<li>To perform an aggression (such as an arrest).</li>
-<li>To perform a defense.</li>
-</ol>
+ 1. To familiarize himself with the weapon and to zero it.
+ 2. To perform an aggression (such as an arrest).
+ 3. To perform a defense.
 
-<p>Obviously the most critical of these reasons is the third, and in that scenario you will be lucky to have the time to properly place your ear protection on, much less eye protection. So get used to the conditions under which your will be shooting under the third reason, even when you are shooting for one of the other two.</p>
+Obviously the most critical of these reasons is the third, and in that scenario you will be lucky to have the time to properly place your ear protection on, much less eye protection. So get used to the conditions under which your will be shooting under the third reason, even when you are shooting for one of the other two.
 
-<p>And <em>always</em> wear ear protection.</p>
-
+And _always_ wear ear protection.
 
 
 

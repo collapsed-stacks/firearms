@@ -14,9 +14,9 @@ Are there certain types of bullets that create problems when fed through a lever
 - posted by: [Chris Agocs](https://stackexchange.com/users/-1/12-chris-agocs) on 2012-03-19
 - score: 8
 
-Are there certain types of bullets that create problems when fed through a lever-action rifle? Do hollow-points or soft-points work or should I stick with regular round-nosed ammo?
+A major consideration with a lever action rifle is the tube magazine. If you are using spitzer bullets in a tube magazine, they wind up being arranged tip-to-primer, and all it takes is one touchy primer to explode your whole magazine. Hornady makes a line of LEVERevolution ammunition that has a soft, polymer tip. It has the ballistic coefficient of spitzer bullets, but is primer safe.
 
-(If it matters I'm concerned with a .30-30 Marlin in my particular case)
+Round-Nose Flat Point bullets will probably feed pretty well as well and be primer safe, as will hollow points. I've heard bad things about feeding wadcutters and semi-wadcutters because of the sharp edges.
 
 
 

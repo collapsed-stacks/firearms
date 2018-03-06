@@ -22,18 +22,15 @@ Is it possible to either
 - posted by: [OldWolf](https://stackexchange.com/users/-1/111-oldwolf) on 2011-11-11
 - score: 4
 
-<p>With the caveat that "anything is possible with enough time and money" that really depends on to what extent it has been sporterized and what condition it was in before it was sporterized. For a full restoration:</p>
+With the caveat that "anything is possible with enough time and money" that really depends on to what extent it has been sporterized and what condition it was in before it was sporterized. For a full restoration:
 
-<ul>
-<li>Do the serial numbers match? </li>
-<li>Is it the original barrel?</li>
-<li>Has the "stripper clip" boss been ground away? </li>
-<li>Is the trigger guard original?</li>
-<li>Has it been drilled and tapped for a scope? </li>
-</ul>
+ - Do the serial numbers match? 
+ - Is it the original barrel?
+ - Has the "stripper clip" boss been ground away? 
+ - Is the trigger guard original?
+ - Has it been drilled and tapped for a scope? 
 
-<p>To simply bring it back close to the original standard issue, you can get most of the parts if you don't care about serial numbers. I'm not an expert on their collectibility, so I am not sure if it would be worth the effort if the rifle been ground on and the serial numbers don't match. It might even be less expensive to find one in the original configuration depending on its condition and just enjoy your uncle's rifle as it is.</p>
-
+To simply bring it back close to the original standard issue, you can get most of the parts if you don't care about serial numbers. I'm not an expert on their collectibility, so I am not sure if it would be worth the effort if the rifle been ground on and the serial numbers don't match. It might even be less expensive to find one in the original configuration depending on its condition and just enjoy your uncle's rifle as it is.
 
 
 

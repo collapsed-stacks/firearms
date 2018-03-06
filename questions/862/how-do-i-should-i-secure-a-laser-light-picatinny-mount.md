@@ -17,11 +17,11 @@ I would like to know some solutions for a loose laser / light rail mount.  I can
 - posted by: [dgm](https://stackexchange.com/users/-1/78-dgm) on 2011-12-20
 - score: 4
 
-<p>I would suggest that a mount that is not "quick release" might be more solid. There's also something to the old adage that "Good gear ain't cheap, and cheap gear ain't good." Considering the low price of the item, and the existence of poor reviews that state the item does not hold zero because of a loose fit on the rail, I think it applies here.</p>
+I would suggest that a mount that is not "quick release" might be more solid. There's also something to the old adage that "Good gear ain't cheap, and cheap gear ain't good." Considering the low price of the item, and the existence of poor reviews that state the item does not hold zero because of a loose fit on the rail, I think it applies here.
 
-<p>If the question is how to secure this particular item to your firearm so that it will hold zero, I doubt there will be an answer you find satisfactory. If I was desperate to make a piece of gear like this work for me, I might consider adding some kind of shims between the mount and the rail, and once I found the optimal fit, affixing them to the mount permanently with superglue or something similar.</p>
+If the question is how to secure this particular item to your firearm so that it will hold zero, I doubt there will be an answer you find satisfactory. If I was desperate to make a piece of gear like this work for me, I might consider adding some kind of shims between the mount and the rail, and once I found the optimal fit, affixing them to the mount permanently with superglue or something similar.
 
-<p>Finally, consider whether this mount is having problems with your particular rail system, or whether it is mal-fitting on rails from other manufacturers. If you can get it to hold zero on another firearm, maybe the rail on your handgun is slightly out of spec.</p>
+Finally, consider whether this mount is having problems with your particular rail system, or whether it is mal-fitting on rails from other manufacturers. If you can get it to hold zero on another firearm, maybe the rail on your handgun is slightly out of spec.
 
 
 

@@ -20,15 +20,13 @@ Excluding the cost of factory ammunition for the moment, what is the best way to
 - posted by: [Daniel Chisholm](https://stackexchange.com/users/-1/36-daniel-chisholm) on 2011-11-18
 - score: 4
 
-<p>If you are already set up with loading gear and you want to load another caliber, you will need:</p>
+If you are already set up with loading gear and you want to load another caliber, you will need:
 
-<ul>
-<li>a set of dies.  Dies for even really weird and exotic cases don't cost too much more than ordinary calibres.</li>
-<li>bullets powder primers - but you might already "stock" these for other calibers you load</li>
-<li>brass</li>
-</ul>
+- a set of dies.  Dies for even really weird and exotic cases don't cost too much more than ordinary calibres.
+- bullets powder primers - but you might already "stock" these for other calibers you load
+- brass
 
-<p>Brass can be gotten by buying expensive factory ammo or even "collector" ammo at gun shows (you don't need very much; for example, you might be able to get by with 40pcs or 60pcs of brass for the lifetime of your .350 Rem Mag).  If the cartridge belongs to a common family (most do), you can form your brass from another case.  For example the .350 Rem Mag uses the "standard magnum" case, so you ought to be able to make brass for your .350 Rem Mag out of any of the 0.532" belted magnum cases, for example .300 Win Mag, 7mm Rem Mag, .338 Win Mag.</p>
+Brass can be gotten by buying expensive factory ammo or even "collector" ammo at gun shows (you don't need very much; for example, you might be able to get by with 40pcs or 60pcs of brass for the lifetime of your .350 Rem Mag).  If the cartridge belongs to a common family (most do), you can form your brass from another case.  For example the .350 Rem Mag uses the "standard magnum" case, so you ought to be able to make brass for your .350 Rem Mag out of any of the 0.532" belted magnum cases, for example .300 Win Mag, 7mm Rem Mag, .338 Win Mag.
 
 
 

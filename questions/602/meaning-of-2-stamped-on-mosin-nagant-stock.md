@@ -19,8 +19,7 @@ Does anyone know what this would have indicated?
 - posted by: [Andrew D Kirch](https://stackexchange.com/users/-1/266-andrew-d-kirch) on 2011-11-22
 - score: 3
 
-<p>2's usually show up on rifles refurbished for sale to other countries.  You'll see this some on Mosin Nagants, and a LOT on SKS.</p>
-
+2's usually show up on rifles refurbished for sale to other countries.  You'll see this some on Mosin Nagants, and a LOT on SKS.
 
 
 ## Answer 630
@@ -28,14 +27,13 @@ Does anyone know what this would have indicated?
 - posted by: [OldWolf](https://stackexchange.com/users/-1/111-oldwolf) on 2011-11-21
 - score: 1
 
-<p>Might be a variation on the Hungarian country code, which is usually seen as "02" on the stock. Does it have any other markings indicating it's origin?</p>
+Might be a variation on the Hungarian country code, which is usually seen as "02" on the stock. Does it have any other markings indicating it's origin?
 
-<p>From 
-Mosin Nagant Rifle Guide to <a href="http://mosinnagant.net/ussr/mosin_nagant_markings.asp" rel="nofollow">Proofs and Markings</a></p>
+From 
+Mosin Nagant Rifle Guide to [Proofs and Markings](http://mosinnagant.net/ussr/mosin_nagant_markings.asp)
 
-<p>The code on the <a href="http://mosinnagant.net/images/Hungary02.jpg" rel="nofollow">barrel shank</a> along with the <a href="http://mosinnagant.net/images/HungarianCrest.jpg" rel="nofollow">crest</a>
-and the code on the <a href="http://mosinnagant.net/images/HungStock.jpg" rel="nofollow">stock</a> </p>
-
+The code on the [barrel shank](http://mosinnagant.net/images/Hungary02.jpg) along with the [crest](http://mosinnagant.net/images/HungarianCrest.jpg)
+and the code on the [stock](http://mosinnagant.net/images/HungStock.jpg) 
 
 
 

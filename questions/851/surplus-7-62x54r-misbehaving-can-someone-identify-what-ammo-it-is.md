@@ -32,23 +32,26 @@ Images of ammo and box.
 - posted by: [kbyrd](https://stackexchange.com/users/-1/37-kbyrd) on 2011-12-18
 - score: 3
 
-<p><strong>UPDATE:</strong></p>
+**UPDATE:**
 
-<p>It appears you have something very similar to <a href="http://www.7.62x54r.net/MosinID/MosinAmmo012.htm" rel="nofollow">http://www.7.62x54r.net/MosinID/MosinAmmo012.htm</a>. It is heavy ball steel core in a lacquer coated steel case. It was made in Czechoslovakia in 1954. </p>
+It appears you have something very similar to http://www.7.62x54r.net/MosinID/MosinAmmo012.htm. It is heavy ball steel core in a lacquer coated steel case. It was made in Czechoslovakia in 1954. 
 
-<p><strong>DETAILS:</strong>
-Disclaimer, I have no experience with this ammunition. I simply did a series of searches and applied some intuition based on the results:</p>
 
-<ul>
-<li><p><code>uxo</code> and <code>54</code> headstamp. This is probably 'bxn' upside down (which would match the 'bxn' on the box. <a href="http://62x54r.net/MosinID/MosinAmmoID06.htm" rel="nofollow">These pictures</a> have me convinced. If that's the case, many <a href="http://cartridgecollectors.org/headstampcodes.htm" rel="nofollow">headstamp references</a> say this indicates these were manufactured by Sellier &amp; Bellot in Czechoslovakia. <code>54</code> means this was made in 1954. </p></li>
-<li><p><code>Tz</code> is heavy. It's steel core heavy ball ammunition, not lighter ball that was used later.</p></li>
-<li><p><code>tbpl/FE</code> is gilding metal clad/steel cartridge case.</p></li>
-<li><p><code>20ks</code> is 20 pieces. That is, 20 cartridges in this box.</p></li>
-<li><p><code>Nctp1.2x0,5|1.2</code> I'm not sure about this, but I believe it describes the type of powder.</p></li>
-</ul>
+**DETAILS:**
+Disclaimer, I have no experience with this ammunition. I simply did a series of searches and applied some intuition based on the results:
 
-<p>As Karl indicated in another answer, I've seen several references to lacquer coated cases causing problems with extraction if the chamber is not clean or if the gun isn't a bit looser than spec.</p>
+- `uxo` and `54` headstamp. This is probably 'bxn' upside down (which would match the 'bxn' on the box. [These pictures](http://62x54r.net/MosinID/MosinAmmoID06.htm) have me convinced. If that's the case, many [headstamp references](http://cartridgecollectors.org/headstampcodes.htm) say this indicates these were manufactured by Sellier & Bellot in Czechoslovakia. `54` means this was made in 1954. 
 
+- `Tz` is heavy. It's steel core heavy ball ammunition, not lighter ball that was used later.
+
+- `tbpl/FE` is gilding metal clad/steel cartridge case.
+
+- `20ks` is 20 pieces. That is, 20 cartridges in this box.
+
+- `Nctp1.2x0,5|1.2` I'm not sure about this, but I believe it describes the type of powder.
+
+
+As Karl indicated in another answer, I've seen several references to lacquer coated cases causing problems with extraction if the chamber is not clean or if the gun isn't a bit looser than spec.
 
 
 ## Answer 855
@@ -56,8 +59,7 @@ Disclaimer, I have no experience with this ammunition. I simply did a series of 
 - posted by: [Karl Bielefeldt](https://stackexchange.com/users/-1/288-karl-bielefeldt) on 2011-12-18
 - score: 0
 
-<p>It's the lacquer coating you want to watch out for, which is what gives the case the green color, if it's the same kind I'm thinking of.  My Dad and I had similar trouble with old green-lacquered cartridges in his Mosin-Nagant, although I don't remember their exact brand, and I've seen people on various forums with the same problem.</p>
-
+It's the lacquer coating you want to watch out for, which is what gives the case the green color, if it's the same kind I'm thinking of.  My Dad and I had similar trouble with old green-lacquered cartridges in his Mosin-Nagant, although I don't remember their exact brand, and I've seen people on various forums with the same problem.
 
 
 

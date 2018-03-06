@@ -17,8 +17,7 @@ My AR-15 has a button on the right side of the upper receiver that is angled int
 - posted by: [Stephen R](https://stackexchange.com/users/-1/34-stephen-r) on 2011-11-01
 - score: 21
 
-<p>The Forward Assist can be used to make sure a round is fully seated in the chamber either after an FTF (failure to feed) or after trying to silently close the bolt.</p>
-
+The Forward Assist can be used to make sure a round is fully seated in the chamber either after an FTF (failure to feed) or after trying to silently close the bolt.
 
 
 ## Answer 15
@@ -55,10 +54,9 @@ My AR-15 has a button on the right side of the upper receiver that is angled int
 - posted by: [Czechnology](https://stackexchange.com/users/-1/101-czechnology) on 2011-11-01
 - score: 4
 
-<p>On most other (semi-)automatic rifles (or pistols) you have the ability to work with the bolt (carrier) directly. So you also have the posibility to push it forward, if you need to (e.g. if the bolt is not properly locked in the forward position, e.g. because of dirt or too much gunshot residue in the chamber).</p>
+On most other (semi-)automatic rifles (or pistols) you have the ability to work with the bolt (carrier) directly. So you also have the posibility to push it forward, if you need to (e.g. if the bolt is not properly locked in the forward position, e.g. because of dirt or too much gunshot residue in the chamber).
 
-<p>On AR-15, you can pull the bolt back carrier back and let the spring push forward. However, if it gets stuck on the way forward, you're stuck - at least you were with the first AR-15 versions that were lacking the <em>forward assist</em>.</p>
-
+On AR-15, you can pull the bolt back carrier back and let the spring push forward. However, if it gets stuck on the way forward, you're stuck - at least you were with the first AR-15 versions that were lacking the _forward assist_.
 
 
 ## Answer 107
@@ -66,10 +64,9 @@ My AR-15 has a button on the right side of the upper receiver that is angled int
 - posted by: [Mason](https://stackexchange.com/users/-1/19-mason) on 2011-11-01
 - score: 3
 
-<p>The proper use of the forward assist is to make sure that a round is fully seated, or to get a round that didn't chamber properly into the chamber so that you can eject it.</p>
+The proper use of the forward assist is to make sure that a round is fully seated, or to get a round that didn't chamber properly into the chamber so that you can eject it.
 
-<p>Make sure that you don't use it to force a round into the chamber and then try to fire it. If a round isn't formed well enough to load using the normal spring force, then there is something wrong with it and you should not attempt to fire it.</p>
-
+Make sure that you don't use it to force a round into the chamber and then try to fire it. If a round isn't formed well enough to load using the normal spring force, then there is something wrong with it and you should not attempt to fire it.
 
 
 

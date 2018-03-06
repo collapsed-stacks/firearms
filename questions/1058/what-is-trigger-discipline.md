@@ -18,12 +18,11 @@ Every once in a while someone will post [a funny picture][1] to reddit that some
 - posted by: [Ray J](https://stackexchange.com/users/-1/166-ray-j) on 2012-02-17
 - score: 10
 
-<p>Trigger discipline is the safety protocol that dictates that your finger is off the trigger and away from the trigger guard when your sights are off target and you are not ready to fire.</p>
+Trigger discipline is the safety protocol that dictates that your finger is off the trigger and away from the trigger guard when your sights are off target and you are not ready to fire.
 
-<p>Sympathetic muscle contraction, startle response, and poor trigger discipline all lead to negligent discharges. </p>
+Sympathetic muscle contraction, startle response, and poor trigger discipline all lead to negligent discharges. 
 
-<p>Being off target and not ready to engage while one's finger is close to or on the trigger shows poor firearms handling and a cavalier attitude towards safety.</p>
-
+Being off target and not ready to engage while one's finger is close to or on the trigger shows poor firearms handling and a cavalier attitude towards safety.
 
 
 

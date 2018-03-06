@@ -12,7 +12,7 @@ Looking to replace the recoil spring.  My gut is that the Kimber Full size is an
 - posted by: [OldWolf](https://stackexchange.com/users/-1/111-oldwolf) on 2011-11-04
 - score: 1
 
-Looking to replace the recoil spring.  My gut is that the Kimber Full size is an 18# but checking to make sure that is correct.
+While not exactly the same, the Custom II's list a 16# spring. You may have to contact Kimber directly to confirm, or check Wilson Combat and see if they can match it up for you.
 
 
 
