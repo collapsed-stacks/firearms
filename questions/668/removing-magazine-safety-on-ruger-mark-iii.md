@@ -55,4 +55,4 @@ Part III  http://www.youtube.com/watch?v=bHvqApQTcss
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

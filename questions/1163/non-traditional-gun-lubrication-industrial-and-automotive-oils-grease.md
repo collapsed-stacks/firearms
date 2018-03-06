@@ -58,4 +58,4 @@ http://firearms.stackexchange.com/questions/543/how-should-i-lubricate-my-1911/5
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

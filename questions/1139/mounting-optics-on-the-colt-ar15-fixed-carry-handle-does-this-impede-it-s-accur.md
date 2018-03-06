@@ -24,4 +24,4 @@ To expand on the last point a bit.  If your sightline is three inches above your
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

@@ -48,4 +48,4 @@ Short stroking and the resulting failure to feed is usually indicative of a gas 
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

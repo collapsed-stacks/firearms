@@ -20,4 +20,4 @@ For a field clean, a cable based cleaning kit would probably be best. Something 
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

@@ -20,4 +20,4 @@ Shooting my 10/22 with a naked barrel crown in the dark of night, the flash is m
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

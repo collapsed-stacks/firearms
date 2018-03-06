@@ -28,4 +28,4 @@ In a rifle the 17HMR is a great option.  At the ranges that you'd shoot a .22 mo
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

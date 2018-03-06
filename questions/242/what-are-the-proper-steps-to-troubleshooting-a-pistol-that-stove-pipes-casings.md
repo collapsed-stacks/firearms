@@ -34,4 +34,4 @@ A friend of mine had a cheap Tec-9 imitation gun that stove piped all the time u
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

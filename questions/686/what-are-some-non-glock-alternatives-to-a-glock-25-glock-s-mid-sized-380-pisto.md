@@ -60,4 +60,4 @@ According to [wikipedia](http://en.wikipedia.org/wiki/.380_ACP), there are a hos
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

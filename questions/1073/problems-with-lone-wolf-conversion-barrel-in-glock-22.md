@@ -41,4 +41,4 @@ FYI: Several manufactures are currently producing low powered 115 gr 9mm loads. 
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

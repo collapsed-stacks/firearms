@@ -43,4 +43,4 @@ At 50-100 yards, you don't need much power.  I can spot .223 holes at 50 using a
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

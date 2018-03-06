@@ -21,4 +21,4 @@ If you're willing to do a bit of dremmel-ing, [here's a thread](http://www.thekt
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

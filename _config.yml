@@ -1,2 +1,11 @@
-title: "Firearms Stack Exchange Archive"
-exclude: ['*.xml', '*.jsonl']
+{
+  "exclude": [
+    "data"
+  ],
+  "stack_site": {
+    "name": "Firearms Stack Exchange",
+    "proposal_id": 164,
+    "slug": "firearms"
+  },
+  "title": "Firearms Stack Exchange Archive"
+}

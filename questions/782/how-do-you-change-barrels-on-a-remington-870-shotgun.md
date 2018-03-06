@@ -18,4 +18,4 @@ Extremely simple. Clear the weapon, move the pump back about 1/2 way and unscrew
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

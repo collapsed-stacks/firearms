@@ -22,4 +22,4 @@ NY's assault weapon ban is written differently than CA's and Sub2000s may have a
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

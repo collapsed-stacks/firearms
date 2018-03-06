@@ -40,4 +40,4 @@ The only place(s) to use grease in a 1911 are in the barrel bushing / locking co
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

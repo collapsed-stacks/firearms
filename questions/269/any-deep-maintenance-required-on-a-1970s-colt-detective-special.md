@@ -32,4 +32,4 @@ The [manual](http://www.coltsmfg.com/MediaDownloads.aspx) does not call for a de
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

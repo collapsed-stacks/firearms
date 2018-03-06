@@ -20,4 +20,4 @@ Most (as in 99%) reloaders will tumble (clean) their cases with the spent primer
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

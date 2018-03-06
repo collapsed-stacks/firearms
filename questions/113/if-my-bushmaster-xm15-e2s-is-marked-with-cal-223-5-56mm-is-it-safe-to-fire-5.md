@@ -32,4 +32,4 @@ Yes it is safe to fire both the .223 and 5.56x45 out of that rifle. If the rifle
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

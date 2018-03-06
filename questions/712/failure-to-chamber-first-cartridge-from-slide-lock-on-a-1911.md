@@ -45,4 +45,4 @@ If you can't fix it by cleaning it, and lubricating, and you aren't a gunsmith t
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

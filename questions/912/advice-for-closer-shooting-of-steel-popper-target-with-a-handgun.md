@@ -69,4 +69,4 @@ Two inch ballistic rubber along with a 8-10 degree down angle will mitigate the 
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

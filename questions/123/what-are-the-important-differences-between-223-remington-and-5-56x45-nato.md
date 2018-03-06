@@ -26,4 +26,4 @@ In contrast to SAAMI, the standards organization C.I.P. defines the maximum serv
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

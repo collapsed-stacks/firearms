@@ -41,4 +41,4 @@ The [Ruger 77](http://www.ruger.com/products/rotaryMagazine/index.html) bolt-act
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

@@ -29,4 +29,4 @@ According to a little blip from [this article](http://www.nytimes.com/2012/02/07
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

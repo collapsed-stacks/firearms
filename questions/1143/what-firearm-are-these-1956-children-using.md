@@ -57,4 +57,4 @@ It's a very long-barreled shotgun, an autoloader.  However the child's hand obsc
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

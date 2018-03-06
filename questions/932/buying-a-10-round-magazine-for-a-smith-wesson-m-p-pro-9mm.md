@@ -31,4 +31,4 @@ I bought a M&P 9L from Express Police Supply and they swapped out the 17 rd mags
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

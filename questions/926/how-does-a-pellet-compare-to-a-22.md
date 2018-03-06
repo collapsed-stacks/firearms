@@ -27,4 +27,4 @@ At 10ft, the bullet from a .22 will completely penetrate several 3/4" thick soft
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

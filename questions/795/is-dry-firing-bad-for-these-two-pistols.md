@@ -21,4 +21,4 @@ Your Beretta's [owner's manual](http://www.berettausa.com/file.aspx?DocumentId=6
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
