@@ -4,12 +4,14 @@
 - tagged: `military-surplus`, `cartouches`, `mosin-nagant`
 - score: 6
 
-<p>A Mosin Nagant I recently purchased has a big "2" stamped  on the top of the stock just ahead of the butt plate:</p>
+A Mosin Nagant I recently purchased has a big "2" stamped  on the top of the stock just ahead of the butt plate:
 
-<p><img src="http://i.stack.imgur.com/AT90m.jpg" alt="enter image description here"></p>
+![enter image description here][1]
 
-<p>Does anyone know what this would have indicated?</p>
 
+  [1]: http://i.stack.imgur.com/AT90m.jpg
+
+Does anyone know what this would have indicated?
 
 
 ## Answer 650

@@ -4,8 +4,7 @@
 - tagged: `rifle`, `magazine`, `.22lr`, `remington`
 - score: 1
 
-<p>Are there any high-capacity magazines (25-30 rounds) available for the Remington 597 that have steel feed lips (or are all metal)?</p>
-
+Are there any high-capacity magazines (25-30 rounds) available for the Remington 597 that have steel feed lips (or are all metal)?
 
 ## No Answers
 

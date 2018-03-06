@@ -4,13 +4,13 @@
 - tagged: `gun-safety`, `terminology`
 - score: 4
 
-<p>Every once in a while someone will post <a href="http://www.reddit.com/r/pics/comments/psq14/my_first_time_shooting_a_gun/" rel="nofollow">a funny picture</a> to reddit that somehow involves a firearm, and there are always a few comments that mention "trigger discipline". A quick search yields no authoritative definition of the phrase, so I wonder:</p>
+Every once in a while someone will post [a funny picture][1] to reddit that somehow involves a firearm, and there are always a few comments that mention "trigger discipline". A quick search yields no authoritative definition of the phrase, so I wonder:
 
-<ul>
-<li>What is trigger discipline? </li>
-<li>What are all the rules of good trigger discipline?</li>
-</ul>
+* What is trigger discipline? 
+* What are all the rules of good trigger discipline?
 
+
+  [1]: http://www.reddit.com/r/pics/comments/psq14/my_first_time_shooting_a_gun/
 
 
 ## Answer 1059

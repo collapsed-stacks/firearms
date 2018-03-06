@@ -4,14 +4,16 @@
 - tagged: `gun-safety`, `eye-protection`
 - score: 3
 
-<p>I'm sure everyone here has perfect vision, but in case you don't and struggle with fitting safety glasses over your RX lenses...</p>
+I'm sure everyone here has perfect vision, but in case you don't and struggle with fitting safety glasses over your RX lenses...
 
-<p>I'm looking for a better solution than the "two set" one I have now and am considering "flip ups". This way I would still have the flexibility of wearing the basic frame outside of the range, be able to change the tint, and just be able to "flip down and go" when I enter the range area.</p>
+I'm looking for a better solution than the "two set" one I have now and am considering "flip ups". This way I would still have the flexibility of wearing the basic frame outside of the range, be able to change the tint, and just be able to "flip down and go" when I enter the range area.
 
-<p>So minimum requirements would be ANSI Z87 or better.</p>
+So minimum requirements would be ANSI Z87 or better.
 
-<p>Here's an example of a <a href="http://www.rudyproject.com/products/glasses/perception-flip-up/matte-black/demo-lens.html" rel="nofollow">sport flip-ups</a> that support prescription lenses, no ANSI though. Any personal experience here or arguments to the contrary? Thanks.</p>
+Here's an example of a [sport flip-ups][1] that support prescription lenses, no ANSI though. Any personal experience here or arguments to the contrary? Thanks.
 
+
+  [1]: http://www.rudyproject.com/products/glasses/perception-flip-up/matte-black/demo-lens.html
 
 
 ## Answer 1225

@@ -4,27 +4,30 @@
 - tagged: `ammunition`, `military-surplus`, `markings`, `7.62x39mm`
 - score: 1
 
-<p>On these 7.62x39 crates, which of the markings indicate that the ammo is or isn't on clips? (This is a more specific version of <a href="http://firearms.stackexchange.com/questions/1099/how-are-clips-indicated-on-russian-surplus-ammo-crates">my other question</a> because I didn't want to invalidate the good answer given to my broader question.) After more research Google thinks these crates are labeled in Croatian.</p>
+On these 7.62x39 crates, which of the markings indicate that the ammo is or isn't on clips? (This is a more specific version of [my other question](http://firearms.stackexchange.com/questions/1099/how-are-clips-indicated-on-russian-surplus-ammo-crates) because I didn't want to invalidate the good answer given to my broader question.) After more research Google thinks these crates are labeled in Croatian.
 
-<p>From what I've been able to figure out using Google Translate:</p>
+From what I've been able to figure out using Google Translate:
 
-<ul>
-<li>"комада" means "pieces", as in number of rounds</li>
-<li>"метака са обичним зрном" means "cartridges with ordinary bullets" (as opposed to incendiary, armor piercing, tracer, etc)</li>
-<li>"и месинганом чауром" means it's brass cased</li>
-<li>"Бруто" means "gross", as in the total weight</li>
-</ul>
+ - "комада" means "pieces", as in number of rounds
+ - "метака са обичним зрном" means "cartridges with ordinary bullets" (as opposed to incendiary, armor piercing, tracer, etc)
+ - "и месинганом чауром" means it's brass cased
+ - "Бруто" means "gross", as in the total weight
 
-<p>which leaves "у оквирима" which comes back as "within the" as about the only option to mean "on clips". I'd also come across "без оквира" ("no frame") which for a while had me believing they only marked ammo that <em>wasn't</em> on clips. Anyone know the real story here?</p>
+which leaves "у оквирима" which comes back as "within the" as about the only option to mean "on clips". I'd also come across "без оквира" ("no frame") which for a while had me believing they only marked ammo that *wasn't* on clips. Anyone know the real story here?
 
-<p><img src="http://i.stack.imgur.com/st9Lu.jpg" alt="crate with clips"></p>
+![crate with clips][1]
 
-<p><img src="http://i.stack.imgur.com/s5IDv.jpg" alt="crate without clips"></p>
+![crate without clips][2]
 
-<p><img src="http://i.stack.imgur.com/yrzXs.jpg" alt="box with clips"></p>
+![box with clips][3]
 
-<p><img src="http://i.stack.imgur.com/9C9rY.jpg" alt="box without clips"></p>
+![box without clips][4]
 
+
+  [1]: http://i.stack.imgur.com/st9Lu.jpg
+  [2]: http://i.stack.imgur.com/s5IDv.jpg
+  [3]: http://i.stack.imgur.com/yrzXs.jpg
+  [4]: http://i.stack.imgur.com/9C9rY.jpg
 
 
 ## Answer 1105

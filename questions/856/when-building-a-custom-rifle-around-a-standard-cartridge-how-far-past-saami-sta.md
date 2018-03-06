@@ -4,16 +4,20 @@
 - tagged: `gunsmithing`, `ammunition-reloading`, `saami`
 - score: 2
 
-<p><a href="http://en.wikipedia.org/wiki/Sporting_Arms_and_Ammunition_Manufacturers%27_Institute" rel="nofollow">SAAMI</a> defines a wide variety of parameters for firearms, including maximum pressures for a given round (eg <a href="http://en.wikipedia.org/wiki/.30-06" rel="nofollow">60,200psi</a> for a .30-06).</p>
+[SAAMI][1] defines a wide variety of parameters for firearms, including maximum pressures for a given round (eg [60,200psi][2] for a .30-06).
 
-<p>If I were building a custom rifle and wanted to increase the performance of fired rounds, would increasing the pressure behind the bullet achieve this?</p>
+If I were building a custom rifle and wanted to increase the performance of fired rounds, would increasing the pressure behind the bullet achieve this?
 
-<p>For example, if 55gr of a given powder will generated 57kpsi, but I'd like to go to 68kpsi, and adjust my powder load accordingly, what will need to be done to the receiver/barrel/etc for the higher pressures to be handled properly?</p>
+For example, if 55gr of a given powder will generated 57kpsi, but I'd like to go to 68kpsi, and adjust my powder load accordingly, what will need to be done to the receiver/barrel/etc for the higher pressures to be handled properly?
 
-<p>Will increasing pressure behind the bullet give a better performance in terms of velocity, range, and accuracy? Could it hurt any of the above?</p>
+Will increasing pressure behind the bullet give a better performance in terms of velocity, range, and accuracy? Could it hurt any of the above?
 
-<p>What other considerations would need to be made to effectively <a href="http://en.wikipedia.org/wiki/Wildcat_cartridge" rel="nofollow">wildcat</a> an otherwise-common round (and still allow the rifle to shoot factory ammunition)?</p>
+What other considerations would need to be made to effectively [wildcat][3] an otherwise-common round (and still allow the rifle to shoot factory ammunition)?
 
+
+  [1]: http://en.wikipedia.org/wiki/Sporting_Arms_and_Ammunition_Manufacturers%27_Institute
+  [2]: http://en.wikipedia.org/wiki/.30-06
+  [3]: http://en.wikipedia.org/wiki/Wildcat_cartridge
 
 
 ## Answer 857

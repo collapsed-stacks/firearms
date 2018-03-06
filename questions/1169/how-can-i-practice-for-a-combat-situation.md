@@ -4,10 +4,9 @@
 - tagged: `training`
 - score: 5
 
-<p>I realize that it's impossible to simulate a combat situation. But I think that shooting at  target practice is wildly different from shooting under duress when lives are on the line.</p>
+I realize that it's impossible to simulate a combat situation. But I think that shooting at  target practice is wildly different from shooting under duress when lives are on the line.
 
-<p>How can someone without military or law enforcement experience practice shooting in a stressful situation so they can be better prepared if the time comes?</p>
-
+How can someone without military or law enforcement experience practice shooting in a stressful situation so they can be better prepared if the time comes?
 
 ## No Answers
 

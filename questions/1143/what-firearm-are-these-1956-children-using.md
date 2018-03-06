@@ -4,14 +4,17 @@
 - tagged: `rifle`, `identification`, `history`
 - score: 4
 
-<p>In this series of photos from LIFE magazine in 1956 depicting a gun safety class at a school, children are shown sighting and operating the action of a rifle. Later a police officer is shown firing the weapon (to the delight of the children).</p>
+In this series of photos from LIFE magazine in 1956 depicting a gun safety class at a school, children are shown sighting and operating the action of a rifle. Later a police officer is shown firing the weapon (to the delight of the children).
 
-<p>What make and model of rifle is this? Can you tell from the images alone?</p>
+What make and model of rifle is this? Can you tell from the images alone?
 
-<p><a href="http://www.retronaut.co/2011/10/gun-safety-class-at-an-indiana-school-1956/" rel="nofollow">Gun Safety Class in Indiana, 1956</a></p>
+[Gun Safety Class in Indiana, 1956][1]
 
-<p><img src="http://i.stack.imgur.com/pmDWN.jpg" alt="Operating a rifle action"></p>
+![Operating a rifle action][2]
 
+
+  [1]: http://www.retronaut.co/2011/10/gun-safety-class-at-an-indiana-school-1956/
+  [2]: http://i.stack.imgur.com/pmDWN.jpg
 
 
 ## Answer 1145

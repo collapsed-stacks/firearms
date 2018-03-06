@@ -4,8 +4,7 @@
 - tagged: `shotguns`, `skeet`, `over-under`
 - score: 1
 
-<p>I'm looking at getting a double-barreled shotgun for skeet shooting, and I want to know what characteristics I should consider when deciding which gun to get.</p>
-
+I'm looking at getting a double-barreled shotgun for skeet shooting, and I want to know what characteristics I should consider when deciding which gun to get.
 
 
 ## Answer 209
@@ -13,12 +12,7 @@
 - posted by: [J Lundberg](https://stackexchange.com/users/-1/40-j-lundberg) on 2011-11-02
 - score: 1
 
-<p>For any sort of sport shooting the most important thing is the fit of the gun.  Any good gunsmith would be able to fit you for a gun that would work best.</p>
-
-<p>I would also make sure that the gun is solidly built because you will be putting many rounds through it.  Also make sure it locks up tight.</p>
-
-<p>One last thing you might want to look at because I see that your question is tagged <code>skeet</code> if you are looking to do multiple types of sport shooting you might want removable chokes.  I believe that a lot of skeet guns have at least one fixed choke.</p>
-
+I'm looking at getting a double-barreled shotgun for skeet shooting, and I want to know what characteristics I should consider when deciding which gun to get.
 
 
 

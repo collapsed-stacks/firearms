@@ -4,14 +4,16 @@
 - tagged: `1911`, `failure-to-feed`, `jamming`
 - score: 5
 
-<p>I was firing my 1911 at the range last night, and I had one stoppage that resulted in this:</p>
+I was firing my 1911 at the range last night, and I had one stoppage that resulted in this:
 
-<p><img src="http://i.stack.imgur.com/d6ahg.jpg" alt="enter image description here"></p>
+![enter image description here][1]
 
-<p>The previous cartridge ejected properly, and then the slide didn't return to battery. The round (last one in the magazine) was sticking straight up, partially still in the magazine, and the slide slammed closed on it hard enough to dent it like so. I dropped the magazine and removed the round, and everything else worked great.</p>
+The previous cartridge ejected properly, and then the slide didn't return to battery. The round (last one in the magazine) was sticking straight up, partially still in the magazine, and the slide slammed closed on it hard enough to dent it like so. I dropped the magazine and removed the round, and everything else worked great.
 
-<p>Does anyone know what would cause this?</p>
+Does anyone know what would cause this?
 
+
+  [1]: http://i.stack.imgur.com/d6ahg.jpg
 
 
 ## Answer 566

@@ -4,12 +4,16 @@
 - tagged: `scope`, `variable-power`, `fixed-power`
 - score: 1
 
-<p>After much research, I have become enamored with the <a href="http://swfa-ss.com" rel="nofollow">SuperSniper</a> scope series - and am planning to install one on my next rifle (a primarily target and varmint hunter).</p>
+After much research, I have become enamored with the [SuperSniper][1] scope series - and am planning to install one on my next rifle (a primarily target and varmint hunter).
 
-<p>My Remington 710 and AR-15 both have variable-power scopes (3-9x). Other than making the target <em>always</em> appear X many times larger, what are the pros and cons of a fixed-power scope over a variable-power one?</p>
+My Remington 710 and AR-15 both have variable-power scopes (3-9x). Other than making the target *always* appear X many times larger, what are the pros and cons of a fixed-power scope over a variable-power one?
 
-<p>I'm trying to find a general comparison ... but if limit the comparison to similar scopes will help, then I'll select the <a href="http://swfa.com/SWFA-SS-3-9x42-Tactical-Riflescope-P41044.aspx" rel="nofollow">3-9x42 SS</a> and the <a href="http://swfa.com/SWFA-SS-10x42-Tactical-Riflescope-P500.aspx" rel="nofollow">10x42M SS</a> scopes as my exemplars.</p>
+I'm trying to find a general comparison ... but if limit the comparison to similar scopes will help, then I'll select the [3-9x42 SS][2] and the [10x42M SS][3] scopes as my exemplars.
 
+
+  [1]: http://swfa-ss.com
+  [2]: http://swfa.com/SWFA-SS-3-9x42-Tactical-Riflescope-P41044.aspx
+  [3]: http://swfa.com/SWFA-SS-10x42-Tactical-Riflescope-P500.aspx
 
 
 ## Answer 704

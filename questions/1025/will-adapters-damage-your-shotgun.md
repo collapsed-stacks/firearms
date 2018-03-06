@@ -4,10 +4,12 @@
 - tagged: `shotguns`
 - score: 0
 
-<p>I was watching a video recently which demonstrated the use of an adapter such as <a href="http://www.gunadapters.com/categories/Shotgun-Adapters/12-gauge/" rel="nofollow">this</a> to fire different rounds from a 12 gauge shotgun.  The idea is to increase versatility in a situation where ammo is less available.</p>
+I was watching a video recently which demonstrated the use of an adapter such as [this][1] to fire different rounds from a 12 gauge shotgun.  The idea is to increase versatility in a situation where ammo is less available.
 
-<p>How likely is it that using this would harm the <em>barrel</em> of the gun?  I'm going to just assume single shot gun.</p>
+How likely is it that using this would harm the *barrel* of the gun?  I'm going to just assume single shot gun.
 
+
+  [1]: http://www.gunadapters.com/categories/Shotgun-Adapters/12-gauge/
 
 
 ## Answer 1026

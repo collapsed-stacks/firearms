@@ -4,17 +4,17 @@
 - tagged: `rifle`, `gunsmithing`, `military-surplus`, `mauser`, `sporterize`
 - score: 1
 
-<p>I inherited an 8mm Mauser rifle a few years ago.</p>
+I inherited an 8mm Mauser rifle a few years ago.
 
-<p>When my uncle bought it, it had been "<a href="https://www.google.com/search?q=sporterize%20mauser" rel="nofollow">sporterized</a>", and he used it for years as his deer rifle.</p>
+When my uncle bought it, it had been "[sporterized][1]", and he used it for years as his deer rifle.
 
-<p>Is it possible to either</p>
+Is it possible to either
 
-<ol>
-<li>De-sporterize it (ie fully restore to German military condition), or</li>
-<li>Otherwise rework the piece so it is closer to the standard German military issue?</li>
-</ol>
+1. De-sporterize it (ie fully restore to German military condition), or
+2. Otherwise rework the piece so it is closer to the standard German military issue?
 
+
+  [1]: https://www.google.com/search?q=sporterize%20mauser
 
 
 ## Answer 507

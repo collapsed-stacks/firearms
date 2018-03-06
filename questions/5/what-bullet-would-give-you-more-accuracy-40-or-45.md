@@ -4,7 +4,7 @@
 - tagged: `ammunition`, `accuracy`, `.45acp`, `.40sw`
 - score: 0
 
-<p>Would a .40 caliber bullet be more accurate in general than a .45 caliber bullet in a pistol? (Assuming the same gun type).</p>
+Would a .40 caliber bullet be more accurate in general than a .45 caliber bullet in a pistol? (Assuming the same gun type).
 
 
 
@@ -13,11 +13,7 @@
 - posted by: [Robert Matthews](https://stackexchange.com/users/-1/27-robert-matthews) on 2011-11-01
 - score: 2
 
-<p>Generally it's easier to make a larger bullet more accurate...</p>
-
-<p>The rotational acceleration of a larger diameter bullet makes it easier to stabilize, hence more accuracy.</p>
-
-<p>Having said that, there is more than just bullet diameter that affects accuracy.</p>
+Would a .40 caliber bullet be more accurate in general than a .45 caliber bullet in a pistol? (Assuming the same gun type).
 
 
 

@@ -4,21 +4,24 @@
 - tagged: `pistols`, `gunsmithing`, `handguns`
 - score: 4
 
-<p>There are several <a href="http://www.thehighroad.org/archive/index.php/t-451087.html" rel="nofollow">bottom-ejecting</a> shotguns available on the market.</p>
+There are several [bottom-ejecting][1] shotguns available on the market.
 
-<p>If I want to replicate this behavior in a handgun, what smithing consideration will I need to take into account?</p>
+If I want to replicate this behavior in a handgun, what smithing consideration will I need to take into account?
 
-<p>I realize that position of the magazine, etc will need to be shifted (perhaps <em>a la</em> a <a href="http://en.wikipedia.org/wiki/Bullpup" rel="nofollow">bullpup</a>).</p>
+I realize that position of the magazine, etc will need to be shifted (perhaps *a la* a [bullpup][2]).
 
-<p>What else needs to be considered?</p>
+What else needs to be considered?
 
-<hr>
+___
+<sup><sub>Sidebar - background information</sub></sup>
 
-<p><sup><sub>Sidebar - background information</sub></sup></p>
+<sup><sub>**Q - Why do I want a bottom-ejecting handgun?**</sub></sup>  
+<sup><sub>**A - To use it in a *truly* ambidextrous fashion**</sub></sup>
 
-<p><sup><sub><strong>Q - Why do I want a bottom-ejecting handgun?</strong></sub></sup><br>
-<sup><sub><strong>A - To use it in a <em>truly</em> ambidextrous fashion</strong></sub></sup></p>
 
+
+  [1]: http://www.thehighroad.org/archive/index.php/t-451087.html
+  [2]: http://en.wikipedia.org/wiki/Bullpup
 
 
 ## Answer 471

@@ -4,8 +4,7 @@
 - tagged: `shotguns`, `trap`, `chokes`
 - score: 2
 
-<p>I was wondering, what are the best chokes to use for trap?  I was originally using an improved modified choke but I think it may be too tight.</p>
-
+I was wondering, what are the best chokes to use for trap?  I was originally using an improved modified choke but I think it may be too tight.
 
 
 ## Answer 718
@@ -13,12 +12,7 @@
 - posted by: [mace](https://stackexchange.com/users/-1/163-mace) on 2011-12-04
 - score: 3
 
-<p>A modified choke is a good starting point for shooting trap and isn't quite as tight as improved modified.  <strong>However</strong>, until you <a href="http://www.chuckhawks.com/why_pattern.htm" rel="nofollow">pattern your shotgun</a> with your selected choke and load you're just <em>guessing</em> that your current pattern is too tight.</p>
-
-<p>Minor variances in barrels, chokes and ammunition can add up to significant differences in pattern size. You may find that your nominally Improved Modified choke actually patterns anywhere from IC to Extra Full.</p>
-
-<p>The other possibility is that the pattern is the desired size but has a poor pellet distribution with gaps that can cause misses. The only way to find out is to shoot some paper and see. If you have a bad pattern you can experiment with different brands of ammunition and/or aftermarkets chokes (changing only one variable at a time). You may find that extended chokes create nicer patterns than the short flush-mount chokes that come with many shotguns.</p>
-
+I was wondering, what are the best chokes to use for trap?  I was originally using an improved modified choke but I think it may be too tight.
 
 
 

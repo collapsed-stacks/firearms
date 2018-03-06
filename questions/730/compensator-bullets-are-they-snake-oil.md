@@ -4,10 +4,12 @@
 - tagged: `ammunition`
 - score: 9
 
-<p>A coworker pointed me toward <a href="http://www.thefirearmblog.com/blog/2011/12/06/bullet-compensator-compbullet/">these</a>, bullets with integral compensator vents drilled into them. The company's promotional literature suggests that the vents will allow expanding gasses to lubricate the bullet as it travels down the barrel. Additionally, the vents are supposed to reduce recoil, muzzle flash, and smoke, all while improving velocity.</p>
+A coworker pointed me toward [these][1], bullets with integral compensator vents drilled into them. The company's promotional literature suggests that the vents will allow expanding gasses to lubricate the bullet as it travels down the barrel. Additionally, the vents are supposed to reduce recoil, muzzle flash, and smoke, all while improving velocity.
 
-<p>These claims seem contradictory to my layperson's eye. Can anyone provide an expert's opinion as to what they believe will actually happen?</p>
+These claims seem contradictory to my layperson's eye. Can anyone provide an expert's opinion as to what they believe will actually happen?
 
+
+  [1]: http://www.thefirearmblog.com/blog/2011/12/06/bullet-compensator-compbullet/
 
 
 ## Answer 735

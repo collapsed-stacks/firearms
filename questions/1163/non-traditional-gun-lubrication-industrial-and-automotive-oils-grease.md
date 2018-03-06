@@ -4,10 +4,11 @@
 - tagged: `lubrication`
 - score: 6
 
-<p>I recently stumbled over a <a href="http://www.youtube.com/watch?v=OXIsKEHo-4g" rel="nofollow">video</a> where someone swore by using wheel bearing grease on his ARs for high round count shooting and training. A can of wheel bearing grease costs about $8 for 1lb, while a 1.5oz tube of TW25 might cost me $8-10. This actually makes quite a bit of sense, firearms didn't invent high temperature, metal on metal friction surfaces. I'm about to begin an experiment with ceramic brake lubricant on one of my handguns and was wondering if anyone has tried something like this before? If so what were your results? </p>
+I recently stumbled over a [video][1] where someone swore by using wheel bearing grease on his ARs for high round count shooting and training. A can of wheel bearing grease costs about $8 for 1lb, while a 1.5oz tube of TW25 might cost me $8-10. This actually makes quite a bit of sense, firearms didn't invent high temperature, metal on metal friction surfaces. I'm about to begin an experiment with ceramic brake lubricant on one of my handguns and was wondering if anyone has tried something like this before? If so what were your results? 
 
-<p>For additional references see: <a href="http://www.frfrogspad.com/homemade.htm#Oil" rel="nofollow">http://www.frfrogspad.com/homemade.htm#Oil</a></p>
+For additional references see: http://www.frfrogspad.com/homemade.htm#Oil
 
+  [1]: http://www.youtube.com/watch?v=OXIsKEHo-4g
 
 
 ## Answer 1166

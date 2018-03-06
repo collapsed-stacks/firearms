@@ -4,10 +4,12 @@
 - tagged: `ar-15`, `failure-to-feed`, `gas-system`, `buffer`, `bolt-carrier-group`
 - score: 3
 
-<p>I have a CMMG AR-15 with 18'' Barrel and rifle-length gas system.  The rifle came with a carbine-length buffer tube.  I frequently get FTF (similar to <a href="http://lh6.ggpht.com/_5kA3JwNkBxc/TF75cbUKfgI/AAAAAAAAGSA/FX1nAC4CIZg/mms_picture.jpg" rel="nofollow">this</a>) where the BCG scrapes over top of the round.  I believe is is due to this seemingly mismatched combination of gas system and buffer system as it appears the BCG comes back too fast or never retracts fully.</p>
+I have a CMMG AR-15 with 18'' Barrel and rifle-length gas system.  The rifle came with a carbine-length buffer tube.  I frequently get FTF (similar to [this][1]) where the BCG scrapes over top of the round.  I believe is is due to this seemingly mismatched combination of gas system and buffer system as it appears the BCG comes back too fast or never retracts fully.
 
-<p>My question is would a heavier buffer and/or weaker spring help?  Should I prioritize replacing one before the other? or Replace both?  Are there other suggestions to troubleshoot and fix the issue?</p>
+My question is would a heavier buffer and/or weaker spring help?  Should I prioritize replacing one before the other? or Replace both?  Are there other suggestions to troubleshoot and fix the issue?
 
+
+  [1]: http://lh6.ggpht.com/_5kA3JwNkBxc/TF75cbUKfgI/AAAAAAAAGSA/FX1nAC4CIZg/mms_picture.jpg
 
 
 ## Answer 211

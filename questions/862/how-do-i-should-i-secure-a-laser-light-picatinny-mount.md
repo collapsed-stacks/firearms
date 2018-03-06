@@ -4,10 +4,12 @@
 - tagged: `laser`, `low-light`, `picatinny`
 - score: 2
 
-<p>I would like to know some solutions for a loose laser / light rail mount.  I cannot keep my laser dialed in on my M&amp;P40.  It has serious slack and just moving the gun around in an agressive way throws the laser off significantly.  Is there a "right" way to secure mounts like this?</p>
+I would like to know some solutions for a loose laser / light rail mount.  I cannot keep my laser dialed in on my M&P40.  It has serious slack and just moving the gun around in an agressive way throws the laser off significantly.  Is there a "right" way to secure mounts like this?
 
-<p><a href="http://rads.stackoverflow.com/amzn/click/B002C01MGC" rel="nofollow">This is the model I have on my M&amp;P40</a></p>
+[This is the model I have on my M&P40][1]
 
+
+  [1]: http://www.amazon.com/Tactical-Lumens-Flashlight-Weaver-Release/dp/B002C01MGC/ref=sr_1_22?ie=UTF8&qid=1324414069&sr=8-22
 
 
 ## Answer 863

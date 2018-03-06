@@ -4,24 +4,26 @@
 - tagged: `glock`, `magazine`, `9mm`, `add-on`
 - score: 5
 
-<p>I have a Glock 26.</p>
+I have a Glock 26.
 
-<p><img src="http://i.stack.imgur.com/QQXFc.gif" alt="Glock 26 Picture"></p>
+![Glock 26 Picture][1]
 
-<p>I chose this model because it has a shorter handle than other models of Glock and so it conceals better.</p>
+I chose this model because it has a shorter handle than other models of Glock and so it conceals better.
 
-<p>I don't mind the trade off of grip stability when I'm carrying this weapon concealed. When I take this pistol to the range, though, I'd like to be able to include my pinky finger in my grip of the weapon.</p>
+I don't mind the trade off of grip stability when I'm carrying this weapon concealed. When I take this pistol to the range, though, I'd like to be able to include my pinky finger in my grip of the weapon.
 
-<p>I've seen magazine attachments like this one online:</p>
+I've seen magazine attachments like this one online:
 
-<p><img src="http://i.stack.imgur.com/IDbAe.png" alt="Magazine Extension Picture"></p>
+![Magazine Extension Picture][2]
 
-<p>They don't add any additional capacity to the magazine, they just extend the grip to simulate a regular handle.</p>
+They don't add any additional capacity to the magazine, they just extend the grip to simulate a regular handle.
 
-<p>My question is, do these third party add-ons have a good track record?  Do they fasten securely?</p>
+My question is, do these third party add-ons have a good track record?  Do they fasten securely?
 
-<p>What are the advantages and disadvantages of using such an add-on?</p>
+What are the advantages and disadvantages of using such an add-on?
 
+  [1]: http://i.stack.imgur.com/QQXFc.gif
+  [2]: http://i.stack.imgur.com/IDbAe.png
 
 
 ## Answer 31

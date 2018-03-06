@@ -4,10 +4,12 @@
 - tagged: `rifle`, `ar-15`
 - score: 13
 
-<p>My AR-15 has a button on the right side of the upper receiver that is angled into the barrel.  What is it for?</p>
+My AR-15 has a button on the right side of the upper receiver that is angled into the barrel.  What is it for?
 
-<p><img src="http://i.stack.imgur.com/0qlL4.png" alt="enter image description here"></p>
+![enter image description here][1]
 
+
+  [1]: http://i.stack.imgur.com/0qlL4.png
 
 
 ## Answer 17

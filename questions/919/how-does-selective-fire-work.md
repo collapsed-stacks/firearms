@@ -4,17 +4,14 @@
 - tagged: `semi-automatic`, `selective-fire`, `fully-automatic`
 - score: 0
 
-<blockquote>
-  <p><strong>Possible Duplicate:</strong><br>
-  <a href="http://firearms.stackexchange.com/questions/794/semi-auto-burst-and-full-auto">Semi-Auto, Burst and Full Auto</a>  </p>
-</blockquote>
+> **Possible Duplicate:**  
+> [Semi-Auto, Burst and Full Auto](http://firearms.stackexchange.com/questions/794/semi-auto-burst-and-full-auto)  
 
+<!-- End of automatically inserted text -->
 
+Many firearms come with a selector switch that can go from safe to semi-automatic to burst to full auto (or variations on the theme).
 
-<p>Many firearms come with a selector switch that can go from safe to semi-automatic to burst to full auto (or variations on the theme).</p>
-
-<p>How does a "burst" setting work, mechanically?</p>
-
+How does a "burst" setting work, mechanically?
 
 ## No Answers
 

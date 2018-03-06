@@ -4,18 +4,18 @@
 - tagged: `ammunition`, `ammunition-reloading`, `gunpowder`
 - score: 3
 
-<p>With the <a href="http://www.midwayusa.com/find?&amp;newcategorydimensionid=6347" rel="nofollow">plethora</a> of primer and powder sizes and types, how does a new-to-reloading reloader determine which combinations are going to:</p>
+With the [plethora][1] of primer and powder sizes and types, how does a new-to-reloading reloader determine which combinations are going to:
 
-<ol>
-<li>work  </li>
-<li>work well  </li>
-<li>be optimal in his firearm</li>
-</ol>
+1. work  
+2. work well  
+3. be optimal in his firearm
 
-<p>For example, is it universally true that large rifle primers should only be used on large rifle cartridges?<br>
-Are large, slow-burning powders "better" than small, fast-burning ones for a given caliber/weapon combination?<br>
-How should a new reloader approach the topic?</p>
+For example, is it universally true that large rifle primers should only be used on large rifle cartridges?  
+Are large, slow-burning powders "better" than small, fast-burning ones for a given caliber/weapon combination?  
+How should a new reloader approach the topic?
 
+
+  [1]: http://www.midwayusa.com/find?&newcategorydimensionid=6347
 
 
 ## Answer 492

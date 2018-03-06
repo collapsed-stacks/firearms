@@ -4,10 +4,12 @@
 - tagged: `shotguns`, `slide-action`
 - score: 1
 
-<p><a href="http://www.keltecweapons.com/our-guns/shotguns/ksg" rel="nofollow">Kel-Tec</a> has recently introduced a dual-magazine, slide action shotgun.</p>
+[Kel-Tec][1] has recently introduced a dual-magazine, slide action shotgun.
 
-<p>Are there any slide action, double barrel shotguns available? Perhaps one that would either disallow sliding the action until both barrels had been fired?</p>
+Are there any slide action, double barrel shotguns available? Perhaps one that would either disallow sliding the action until both barrels had been fired?
 
+
+  [1]: http://www.keltecweapons.com/our-guns/shotguns/ksg
 
 
 ## Answer 1210

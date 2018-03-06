@@ -4,8 +4,10 @@
 - tagged: `shotguns`, `skeet`, `shot-size`
 - score: 2
 
-<p>According to <a href="http://en.wikipedia.org/wiki/Shotgun_shell#Shot_sizes" rel="nofollow">Wikipedia</a>, shot sizes #8 and #9 are typically used for skeet shooting.  Are these the best shot sizes to use?  If so, why?</p>
+According to [Wikipedia][1], shot sizes #8 and #9 are typically used for skeet shooting.  Are these the best shot sizes to use?  If so, why?
 
+
+  [1]: http://en.wikipedia.org/wiki/Shotgun_shell#Shot_sizes
 
 
 ## Answer 770

@@ -4,17 +4,14 @@
 - tagged: `ammunition`, `9mm`
 - score: 0
 
-<blockquote>
-  <p><strong>Possible Duplicate:</strong><br>
-  <a href="http://firearms.stackexchange.com/questions/1061/9mm-ammunition-names">9mm ammunition names</a>  </p>
-</blockquote>
+> **Possible Duplicate:**  
+> [9mm ammunition names](http://firearms.stackexchange.com/questions/1061/9mm-ammunition-names)  
 
+<!-- End of automatically inserted text -->
 
+I've been shooting for years, but my Dad was the one purchasing and/or reloading the ammo.  Now that I've started shooting on my own, I am responsible for buying my own ammo.  I wandered into a website yesterday and discovered an entirely new world -- there are a *lot* of 9mm pistol ammo types.
 
-<p>I've been shooting for years, but my Dad was the one purchasing and/or reloading the ammo.  Now that I've started shooting on my own, I am responsible for buying my own ammo.  I wandered into a website yesterday and discovered an entirely new world -- there are a <em>lot</em> of 9mm pistol ammo types.</p>
-
-<p>I imagine that I'll be asking more specific ammo-related questions here in the near future.  But for now, what are some good sources that will let me figure out ammunition types?  In particular, I'm looking for advice and judgements, not just the definitions I can get by looking up "Full Metal Jacket" on wikipedia.  Where can I go to figure out if I should buy 115 grain, 124grain?  Does 9mm "luger" matter?  etc, etc, etc.</p>
-
+I imagine that I'll be asking more specific ammo-related questions here in the near future.  But for now, what are some good sources that will let me figure out ammunition types?  In particular, I'm looking for advice and judgements, not just the definitions I can get by looking up "Full Metal Jacket" on wikipedia.  Where can I go to figure out if I should buy 115 grain, 124grain?  Does 9mm "luger" matter?  etc, etc, etc.
 
 ## No Answers
 

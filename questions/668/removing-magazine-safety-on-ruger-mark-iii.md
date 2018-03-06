@@ -4,8 +4,10 @@
 - tagged: `pistols`, `gunsmithing`, `ruger`, `.22lr`
 - score: 4
 
-<p>How can the magazine safety on the <a href="http://en.wikipedia.org/wiki/Ruger_mark_III" rel="nofollow">Ruger Mark III</a> be disabled so that disassembly isn't such a pain?</p>
+How can the magazine safety on the [Ruger Mark III][1] be disabled so that disassembly isn't such a pain?
 
+
+  [1]: http://en.wikipedia.org/wiki/Ruger_mark_III
 
 
 ## Answer 763

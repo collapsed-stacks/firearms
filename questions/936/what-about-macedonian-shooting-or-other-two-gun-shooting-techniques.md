@@ -4,12 +4,14 @@
 - tagged: `pistols`, `accuracy`, `stance`, `cowboy-action`
 - score: 1
 
-<p>Here is a <a href="http://thefiringline.com/forums/showthread.php?t=147670" rel="nofollow">discussion</a> about two gun shooting practiced (presumably) by Soviet counter intelligence forces around WWII. </p>
+Here is a [discussion][1] about two gun shooting practiced (presumably) by Soviet counter intelligence forces around WWII. 
 
-<p>I wonder if anyone tried it and was able to reach any sensible results. If it makes sense at all, how would one practice it? </p>
+I wonder if anyone tried it and was able to reach any sensible results. If it makes sense at all, how would one practice it? 
 
-<p>Are there other known two hand techniques? </p>
+Are there other known two hand techniques? 
 
+
+  [1]: http://thefiringline.com/forums/showthread.php?t=147670
 
 
 ## Answer 950

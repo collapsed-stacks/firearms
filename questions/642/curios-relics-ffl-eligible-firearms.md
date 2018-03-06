@@ -4,8 +4,10 @@
 - tagged: `ffl03`
 - score: 2
 
-<p>How can I determine whether a particular item is able to be transferred to an <a href="http://en.wikipedia.org/wiki/Federal_Firearms_License" rel="nofollow">03FFL holder</a>?</p>
+How can I determine whether a particular item is able to be transferred to an [03FFL holder][1]?
 
+
+  [1]: http://en.wikipedia.org/wiki/Federal_Firearms_License
 
 
 ## Answer 645

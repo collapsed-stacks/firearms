@@ -4,8 +4,7 @@
 - tagged: `ak`, `scope-mounting`
 - score: 1
 
-<p>If I get an AK that already has the brackets on the left side of the receiver, do I need to worry about compatibility at all, or can I get anything that says "AK scope mount"? Are they the same for AK-47s and AK-74s?</p>
-
+If I get an AK that already has the brackets on the left side of the receiver, do I need to worry about compatibility at all, or can I get anything that says "AK scope mount"? Are they the same for AK-47s and AK-74s?
 
 
 ## Answer 1131
@@ -13,8 +12,7 @@
 - posted by: [presidentender](https://stackexchange.com/users/-1/466-presidentender) on 2012-03-06
 - score: 1
 
-<p>Any AK side rail mount should be compatible with any AK. Be aware that it tends to be very difficult to get a good cheek weld on an AK, because the optic will ride so high.</p>
-
+If I get an AK that already has the brackets on the left side of the receiver, do I need to worry about compatibility at all, or can I get anything that says "AK scope mount"? Are they the same for AK-47s and AK-74s?
 
 
 

@@ -4,19 +4,18 @@
 - tagged: `ammunition`
 - score: 6
 
-<p>While researching <a href="http://www.insideoutsidemag.com/issues/2007/June_July/Dodging_Another_Bullet/">this article</a> (full disclosure: I wrote it) I learned that lead-based ammunition is a well-known threat to Condors and other scavengers, and may have negative effects on humans who unknowingly ingest bullet fragments.</p>
+While researching [this article][1] (full disclosure: I wrote it) I learned that lead-based ammunition is a well-known threat to Condors and other scavengers, and may have negative effects on humans who unknowingly ingest bullet fragments.
 
-<p>The anecdotal evidence I came accross suggests that lead-free ammunition performs just as well as lead-based ammunition, and lack of adoption is largely due to habit (we like to use what we have always used).</p>
+The anecdotal evidence I came accross suggests that lead-free ammunition performs just as well as lead-based ammunition, and lack of adoption is largely due to habit (we like to use what we have always used).
 
-<p>So, my question is two-part:</p>
+So, my question is two-part:
 
-<ul>
-<li>Are there <strong>documented</strong> performance differences between lead-based vs lead-free ammunition?</li>
-<li>Have anyone who has <strong>extensively used both</strong> noticed a marked difference in performance?</li>
-</ul>
+- Are there **documented** performance differences between lead-based vs lead-free ammunition?
+- Have anyone who has **extensively used both** noticed a marked difference in performance?
 
-<p><em>(Note, this question was originally asked at <a href="http://outdoors.stackexchange.com/">http://outdoors.stackexchange.com/</a> but due to the technical nature of the question (ammunition performance) it was suggested I turn to the firearms experts here.)</em></p>
+*(Note, this question was originally asked at http://outdoors.stackexchange.com/ but due to the technical nature of the question (ammunition performance) it was suggested I turn to the firearms experts here.)*
 
+  [1]: http://www.insideoutsidemag.com/issues/2007/June_July/Dodging_Another_Bullet/
 
 
 ## Answer 1016

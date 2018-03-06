@@ -4,8 +4,7 @@
 - tagged: `pistols`, `ammunition`, `terminology`, `.380-acp`
 - score: 7
 
-<p>I have a Walther PPK chambered for .380 ACP. I looked it up in a gun book once to get detailed specs on it, and it listed the calibers as "7.62mm (.32 ACP) and 9x17mm/.380 ACP", and another one didn't even list .380. Are 9x17mm and .380 ACP just different names for the same cartridge, or are they different but just listed together?</p>
-
+I have a Walther PPK chambered for .380 ACP. I looked it up in a gun book once to get detailed specs on it, and it listed the calibers as "7.62mm (.32 ACP) and 9x17mm/.380 ACP", and another one didn't even list .380. Are 9x17mm and .380 ACP just different names for the same cartridge, or are they different but just listed together?
 
 
 ## Answer 77
@@ -13,15 +12,7 @@
 - posted by: [GEOCHET](https://stackexchange.com/users/-1/22-geochet) on 2011-11-01
 - score: 7
 
-<p>Yes, they are the same cartridge.</p>
-
-<blockquote>
-  <p>Other names for .380 ACP include .380 Auto, 9mm Browning, 9mm Corto,
-  9mm Kurz, 9mm Short, and 9x17mm.</p>
-</blockquote>
-
-<p><a href="http://en.wikipedia.org/wiki/.380_ACP">http://en.wikipedia.org/wiki/.380_ACP</a></p>
-
+I have a Walther PPK chambered for .380 ACP. I looked it up in a gun book once to get detailed specs on it, and it listed the calibers as "7.62mm (.32 ACP) and 9x17mm/.380 ACP", and another one didn't even list .380. Are 9x17mm and .380 ACP just different names for the same cartridge, or are they different but just listed together?
 
 
 ## Answer 75
@@ -29,8 +20,7 @@
 - posted by: [dbingham](https://stackexchange.com/users/-1/89-dbingham) on 2011-11-01
 - score: 5
 
-<p><a href="http://en.wikipedia.org/wiki/.380_ACP">They are the same.</a></p>
-
+I have a Walther PPK chambered for .380 ACP. I looked it up in a gun book once to get detailed specs on it, and it listed the calibers as "7.62mm (.32 ACP) and 9x17mm/.380 ACP", and another one didn't even list .380. Are 9x17mm and .380 ACP just different names for the same cartridge, or are they different but just listed together?
 
 
 ## Answer 78
@@ -38,11 +28,7 @@
 - posted by: [dgm](https://stackexchange.com/users/-1/78-dgm) on 2011-11-01
 - score: 2
 
-<p>9mm short, 9x17mm and .380 ACP are synonymous, according to Wikipedia.
-<a href="http://en.wikipedia.org/wiki/.380_ACP" rel="nofollow">http://en.wikipedia.org/wiki/.380_ACP</a></p>
-
-<p>They are referencing Barnes, Frank C., ed. Amber, John T., Cartridges Of The World (3d Edition), (DBI, 1978)</p>
-
+I have a Walther PPK chambered for .380 ACP. I looked it up in a gun book once to get detailed specs on it, and it listed the calibers as "7.62mm (.32 ACP) and 9x17mm/.380 ACP", and another one didn't even list .380. Are 9x17mm and .380 ACP just different names for the same cartridge, or are they different but just listed together?
 
 
 ## Answer 125
@@ -50,8 +36,7 @@
 - posted by: [Alan](https://stackexchange.com/users/-1/107-alan) on 2011-11-01
 - score: 2
 
-<p>As stated above .380 Auto, .380 ACP, 9mm Browning Short, are all names for the same cartridge (designed by John Moses Browning for pistols manufactured by Colt hence the ACP name, Auotmatic Colt Pistol) Also 9mm short, 9mm Kurz (Kurz is German for "Short") and 9mm Corto (Corto is Italian for "Short").</p>
-
+I have a Walther PPK chambered for .380 ACP. I looked it up in a gun book once to get detailed specs on it, and it listed the calibers as "7.62mm (.32 ACP) and 9x17mm/.380 ACP", and another one didn't even list .380. Are 9x17mm and .380 ACP just different names for the same cartridge, or are they different but just listed together?
 
 
 

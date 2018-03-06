@@ -4,10 +4,12 @@
 - tagged: `handguns`, `defense`
 - score: 2
 
-<p>I hike and work in areas that contain <a href="http://en.wikipedia.org/wiki/Agkistrodon_piscivorus" rel="nofollow">Water Moccasins</a> and <a href="http://en.wikipedia.org/wiki/Eastern_Diamondback_Rattlesnake" rel="nofollow">Eastern Diamondback Rattlers</a> and would like to carry a handgun for defense against these venomous creatures. </p>
+I hike and work in areas that contain [Water Moccasins][1] and [Eastern Diamondback Rattlers][2] and would like to carry a handgun for defense against these venomous creatures. 
 
-<p>What type of handgun and what type of ammunition is most effective against snakes?  I think .40 JHP might be a bit much...</p>
+What type of handgun and what type of ammunition is most effective against snakes?  I think .40 JHP might be a bit much...
 
+  [1]: http://en.wikipedia.org/wiki/Agkistrodon_piscivorus
+  [2]: http://en.wikipedia.org/wiki/Eastern_Diamondback_Rattlesnake
 
 
 ## Answer 979

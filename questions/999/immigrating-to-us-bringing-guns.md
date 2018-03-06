@@ -4,12 +4,14 @@
 - tagged: `legal`, `importation`
 - score: 2
 
-<p>When immigrating to the US, what is the options to bring with guns/handguns. </p>
+When immigrating to the US, what is the options to bring with guns/handguns. 
 
-<p>I guess it might depend on the state and so forth. I am selling most my guns since guns are cheaper in the US anyways but a couple of custom long guns which is really nice that I might want to bring with me. </p>
+I guess it might depend on the state and so forth. I am selling most my guns since guns are cheaper in the US anyways but a couple of custom long guns which is really nice that I might want to bring with me. 
 
-<p>I guess that it something similar to the Alien Licence mentioned in "<a href="http://firearms.stackexchange.com/questions/35/is-it-legal-for-a-non-us-citizen-to-purchase-a-firearm-in-the-united-states">Is it legal for a non-US citizen to purchase a firearm in the United States?</a>" but applying for those seem to require that you are already in the US. </p>
+I guess that it something similar to the Alien Licence mentioned in "[Is it legal for a non-US citizen to purchase a firearm in the United States?][1]" but applying for those seem to require that you are already in the US. 
 
+
+  [1]: http://firearms.stackexchange.com/questions/35/is-it-legal-for-a-non-us-citizen-to-purchase-a-firearm-in-the-united-states
 
 
 ## Answer 1000

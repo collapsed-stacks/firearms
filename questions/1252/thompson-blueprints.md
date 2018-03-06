@@ -4,12 +4,10 @@
 - tagged: `gunsmithing`, `fully-automatic`
 - score: 1
 
-<p>Where could I find blueprints on the design of the Thompson submachine gun.</p>
-
+Where could I find blueprints on the design of the Thompson submachine gun.
 <p>
 I've been searching with google forever, and I can't find anything useful
 </p>
-
 
 
 ## Answer 1253
@@ -17,8 +15,10 @@ I've been searching with google forever, and I can't find anything useful
 - posted by: [Gene Temple](https://stackexchange.com/users/-1/254-gene-temple) on 2012-05-03
 - score: 2
 
-<p><a href="http://www.nfatoys.com/tsmg/" rel="nofollow">Click "Thompson Drawings" on the left-hand menu.</a></p>
-
+Where could I find blueprints on the design of the Thompson submachine gun.
+<p>
+I've been searching with google forever, and I can't find anything useful
+</p>
 
 
 

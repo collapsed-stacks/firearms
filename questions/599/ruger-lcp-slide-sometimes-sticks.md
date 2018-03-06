@@ -4,23 +4,23 @@
 - tagged: `pistols`, `troubleshooting`, `ruger`, `out-of-battery`, `.380-acp`
 - score: 2
 
-<p>This little gun seems to be pretty picky about how it is lubricated. If I get it wrong the slide can sometimes get stuck out of battery:</p>
+This little gun seems to be pretty picky about how it is lubricated. If I get it wrong the slide can sometimes get stuck out of battery:
 
-<p><img src="http://i.stack.imgur.com/f8ACY.jpg" alt="Ruger LCP"></p>
+![Ruger LCP][1]
 
-<p>I can also cause this to happen by gently pulling the slide back until I feel it go over two little "bumps" and when I let it go it will stick where I felt the first bump. Is there anything I can polish or otherwise improve to avoid this?</p>
 
-<hr>
+  [1]: http://i.stack.imgur.com/f8ACY.jpg
 
-<p>In response to Gene's questions: </p>
+I can also cause this to happen by gently pulling the slide back until I feel it go over two little "bumps" and when I let it go it will stick where I felt the first bump. Is there anything I can polish or otherwise improve to avoid this?
 
-<ul>
-<li>With no round chambered and no magazine inserted the first bump disappears. The second bump seems to be the barrel catching on the frame after it drops down.</li>
-<li>This behavior requires an inserted magazine holding at least one round. I could feel the first bump when a round was chambered with no mag or an empty mag, but could not get it to stick.</li>
-<li>Behavior was the same with all three factory magazines and both ball and hollow point ammunition</li>
-<li>I could not see any obvious burrs or other wear when looking at the internals</li>
-<li>I believe this has happened only once in about 500 rounds of firing. It happens more often when put into a holster or the front of the slide is otherwise bumped.</li>
-</ul>
+---
+In response to Gene's questions: 
+
+ - With no round chambered and no magazine inserted the first bump disappears. The second bump seems to be the barrel catching on the frame after it drops down.
+ - This behavior requires an inserted magazine holding at least one round. I could feel the first bump when a round was chambered with no mag or an empty mag, but could not get it to stick.
+ - Behavior was the same with all three factory magazines and both ball and hollow point ammunition
+ - I could not see any obvious burrs or other wear when looking at the internals
+ - I believe this has happened only once in about 500 rounds of firing. It happens more often when put into a holster or the front of the slide is otherwise bumped.
 
 
 

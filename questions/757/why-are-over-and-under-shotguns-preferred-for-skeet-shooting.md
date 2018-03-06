@@ -4,8 +4,7 @@
 - tagged: `shotguns`, `skeet`, `over-under`
 - score: 9
 
-<p>I’ve heard from multiple sources that over and under shotguns are preferred for skeet shooting as compared to pump actions or semi-autos.  Why?</p>
-
+I’ve heard from multiple sources that over and under shotguns are preferred for skeet shooting as compared to pump actions or semi-autos.  Why?
 
 
 ## Answer 760
@@ -13,18 +12,7 @@
 - posted by: [mace](https://stackexchange.com/users/-1/163-mace) on 2011-12-09
 - score: 11
 
-<p>There are a few reasons they're preferred due to both the shooting requirements and the fact that you'll have a group of people milling about with shotguns:</p>
-
-<ul>
-<li>Two barrels gives you the option to use two different chokes if desired, and many have selective triggers allowing you to choose which to shoot first on the fly</li>
-<li>vs. Side-by-sides: O/U have the same aim point (Left to Right) so you don't have to lead the target differently based on which barrel you're shooting. The vertical offset isn't as important when shooting at crossing targets, but can be compensated for with special chokes if desired</li>
-<li>A break-open gun makes it easy for everyone around to see that it is unloaded from a distance</li>
-<li>when standing with it or carrying it around broken open, you don't have to be so vigilant about where the muzzle is pointing</li>
-<li>controlled ejection: in addition to not hitting nearby shooters, you can remove the empty shells from the gun after shooting rather than having to pick them up off the ground (depending on whether it has <a href="http://firearms.stackexchange.com/a/625/163">ejectors or extractors</a>)</li>
-</ul>
-
-<p>None of this prevents the use of pump shotguns or whatever else you've got on hand, but if you do a lot of skeet shooting an O/U may start to look pretty nice.</p>
-
+I’ve heard from multiple sources that over and under shotguns are preferred for skeet shooting as compared to pump actions or semi-autos.  Why?
 
 
 ## Answer 759
@@ -32,10 +20,7 @@
 - posted by: [J Lundberg](https://stackexchange.com/users/-1/40-j-lundberg) on 2011-12-09
 - score: 2
 
-<p>It is mostly out of courtesy that over unders are used.  I have met a few people that will not shoot next to someone using a pump or semi because the discharged shells could hit them.</p>
-
-<p>If you look at the new Beretta sporting shot gun it discharges out the bottom so you do not have to worry about hitting someone with you shells.</p>
-
+I’ve heard from multiple sources that over and under shotguns are preferred for skeet shooting as compared to pump actions or semi-autos.  Why?
 
 
 ## Answer 1042
@@ -43,8 +28,7 @@
 - posted by: [John E. Westwick](https://stackexchange.com/users/-1/437-john-e-westwick) on 2012-02-14
 - score: 1
 
-<p>Beside the reasons presented, I use an over/under Browning Superposed because I am left- handed and most of the other shotguns eject to the right(into my face). I also have an Ithica Model 37 which ejects out the bottom of the receiver.</p>
-
+I’ve heard from multiple sources that over and under shotguns are preferred for skeet shooting as compared to pump actions or semi-autos.  Why?
 
 
 

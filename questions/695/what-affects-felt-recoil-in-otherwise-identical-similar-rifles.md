@@ -4,14 +4,18 @@
 - tagged: `rifle`, `recoil`, `bolt-action`, `.30-caliber`
 - score: 5
 
-<p>I own a variety of firearms in calibers near .30 (7.62x54r, .30-06, and 8mm Mauser).</p>
+I own a variety of firearms in calibers near .30 (7.62x54r, .30-06, and 8mm Mauser).
 
-<p>The felt recoil between my <a href="http://en.wikipedia.org/wiki/Remington_Model_710" rel="nofollow">Remington 710</a> in .30-06 and in my sporterized <a href="http://en.wikipedia.org/wiki/8%C3%9757mm_IS" rel="nofollow">8mm Mauser</a> are nearly identical - as I would expect by comparing exterior dimensions of the shells, and the overall sizes of the rifles.</p>
+The felt recoil between my [Remington 710][1] in .30-06 and in my sporterized [8mm Mauser][2] are nearly identical - as I would expect by comparing exterior dimensions of the shells, and the overall sizes of the rifles.
 
-<p>When compared to the also-similarly-sized round for the <a href="http://en.wikipedia.org/wiki/Mosin%E2%80%93Nagant" rel="nofollow">Mosin-Nagant</a>, I would <em>expect</em> the felt recoil to be highly similar. However, when shooting the 7.62x54r round, the rifle kicks extremely hard - and after only one magazine, I'm ready to call it quits; whereas with the 710, I'm able to go through 3-5 boxes before considering stopping.</p>
+When compared to the also-similarly-sized round for the [Mosin-Nagant][3], I would *expect* the felt recoil to be highly similar. However, when shooting the 7.62x54r round, the rifle kicks extremely hard - and after only one magazine, I'm ready to call it quits; whereas with the 710, I'm able to go through 3-5 boxes before considering stopping.
 
-<p>What effects this type of change in the felt or apparent recoil of the rifle?</p>
+What effects this type of change in the felt or apparent recoil of the rifle?
 
+
+  [1]: http://en.wikipedia.org/wiki/Remington_Model_710
+  [2]: http://en.wikipedia.org/wiki/8%C3%9757mm_IS
+  [3]: http://en.wikipedia.org/wiki/Mosin%E2%80%93Nagant
 
 
 ## Answer 706

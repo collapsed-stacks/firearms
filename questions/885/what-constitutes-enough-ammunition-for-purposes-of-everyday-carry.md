@@ -4,18 +4,19 @@
 - tagged: `ammunition`, `defense`
 - score: 9
 
-<p>I have a friend who carries a subcompact Glock as his carry gun (I don't know whether it's the 26 or the 27 - for clarity, I'll assume it's the 26) with a spare magazine from one of the fullsize Glock models. This gives him the usual 10 rounds in the pistol, but when he runs dry, he can reload with a 33 round magazine, giving him a total of 43 rounds in two magazines.</p>
+I have a friend who carries a subcompact Glock as his carry gun (I don't know whether it's the 26 or the 27 - for clarity, I'll assume it's the 26) with a spare magazine from one of the fullsize Glock models. This gives him the usual 10 rounds in the pistol, but when he runs dry, he can reload with a 33 round magazine, giving him a total of 43 rounds in two magazines.
 
-<p>This seems ridiculous to me for a few reasons.  First, it seems to me that if you are in a situation that allows you the opportunity to safely reload and reengage, you have the opportunity to break contact and run - unless you're law enforcement / military and are getting paid to be there, <a href="http://www.samharris.org/blog/item/the-truth-about-violence/">this should be your first choice anyway</a>.</p>
+This seems ridiculous to me for a few reasons.  First, it seems to me that if you are in a situation that allows you the opportunity to safely reload and reengage, you have the opportunity to break contact and run - unless you're law enforcement / military and are getting paid to be there, [this should be your first choice anyway][1].
 
-<p>Second, it seems that members of the military / police (who might actually find themselves in a situation where they might need that much firepower) would also have access to other firearms better suited to that situation (such as a rifle or submachine gun).</p>
+Second, it seems that members of the military / police (who might actually find themselves in a situation where they might need that much firepower) would also have access to other firearms better suited to that situation (such as a rifle or submachine gun).
 
-<p>My friend's response is simple and very difficult to argue with: "better to have it and not need it than need it and not have it"</p>
+My friend's response is simple and very difficult to argue with: "better to have it and not need it than need it and not have it"
 
-<p><strong>So, what should I take into consideration when trying to decide what constitutes "enough" ammunition?</strong></p>
+**So, what should I take into consideration when trying to decide what constitutes "enough" ammunition?**
 
-<p><em>P.S. I would love an answer that could support its claims with statistical information on the average number of rounds fired in self-defense engagements</em></p>
+*P.S. I would love an answer that could support its claims with statistical information on the average number of rounds fired in self-defense engagements*
 
+  [1]: http://www.samharris.org/blog/item/the-truth-about-violence/
 
 
 ## Answer 886

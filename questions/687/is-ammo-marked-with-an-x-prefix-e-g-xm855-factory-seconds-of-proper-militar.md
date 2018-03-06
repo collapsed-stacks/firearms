@@ -4,21 +4,17 @@
 - tagged: `ammunition`, `5.56x45`, `military`
 - score: 5
 
-<p>I have purchased ammo in the past marked as XM855, it comes from Federal and is manufactured at Lake City. The headstamps bare the proper NATO cross, LC marking, and recent dates. I recently purchased another large amount of ammo marked XM855 and it continues to perform well. It is identical in every way that I can see to the proper "green tip" stuff I'm issued. It's got sealed primers, new brass, painted green tips, comes on strippers and even includes the speed-loader adaptor. </p>
+I have purchased ammo in the past marked as XM855, it comes from Federal and is manufactured at Lake City. The headstamps bare the proper NATO cross, LC marking, and recent dates. I recently purchased another large amount of ammo marked XM855 and it continues to perform well. It is identical in every way that I can see to the proper "green tip" stuff I'm issued. It's got sealed primers, new brass, painted green tips, comes on strippers and even includes the speed-loader adaptor. 
 
-<p>I have seen conflicting reports about the M855 in particular. The other common one is (X)M193, also made by Federal, which is <strong>not</strong> factory seconds by their own admission. From their <a href="http://www.federalpremium.com/resources/xm193.aspx">site</a>:</p>
+I have seen conflicting reports about the M855 in particular. The other common one is (X)M193, also made by Federal, which is <strong>not</strong> factory seconds by their own admission. From their <a href="http://www.federalpremium.com/resources/xm193.aspx">site</a>:
 
-<blockquote>
-  <ul>
-  <li><p>XM193 product is first run, first quality product manufactured at Lake City Army Ammunition Plant for Federal Cartridge and is made to
-  Federal specifications typical for commercial ammunition.</p></li>
-  <li><p>All XM193 product is the same regardless of the sku or part number. (ie. XM193C is the same as XM193F, XM193CBP and etc…) The only
-  difference is the package configuration.</p></li>
-  </ul>
-</blockquote>
+>  - XM193 product is first run, first quality product manufactured at Lake City Army Ammunition Plant for Federal Cartridge and is made to
+> Federal specifications typical for commercial ammunition.
+> 
+>  - All XM193 product is the same regardless of the sku or part number. (ie. XM193C is the same as XM193F, XM193CBP and etc…) The only
+> difference is the package configuration.
 
-<p>I can find no concrete answer about (X)M855 however. I would assume that the same applies, but I have heard conflicting reports. It also comes in odd numbers (420 per can), in a can typically sized for belted 7.62 NATO, and it has no tracers (as opposed to the standard 4:1).</p>
-
+I can find no concrete answer about (X)M855 however. I would assume that the same applies, but I have heard conflicting reports. It also comes in odd numbers (420 per can), in a can typically sized for belted 7.62 NATO, and it has no tracers (as opposed to the standard 4:1).
 
 
 ## Answer 689
@@ -26,13 +22,17 @@
 - posted by: [Xander](https://stackexchange.com/users/-1/9-xander) on 2011-11-28
 - score: 1
 
-<p>The plausible explanations that I've heard are that it could be one of two things.</p>
+I have purchased ammo in the past marked as XM855, it comes from Federal and is manufactured at Lake City. The headstamps bare the proper NATO cross, LC marking, and recent dates. I recently purchased another large amount of ammo marked XM855 and it continues to perform well. It is identical in every way that I can see to the proper "green tip" stuff I'm issued. It's got sealed primers, new brass, painted green tips, comes on strippers and even includes the speed-loader adaptor. 
 
-<p>1) Contract-overrun ammo that is mil-spec in all regards, and is indistinguishable from ammo  labeled M855/M193.
-2) Ammo that for cosmetic or other reasons doesn't meet mil-spec but is still determined adequately meet commercial or training specifications.  </p>
+I have seen conflicting reports about the M855 in particular. The other common one is (X)M193, also made by Federal, which is <strong>not</strong> factory seconds by their own admission. From their <a href="http://www.federalpremium.com/resources/xm193.aspx">site</a>:
 
-<p>The most authoritative source I've been able to find has been an interview with someone from ATK Ammunition, which you can view here: <a href="http://www.thegunzone.com/556xm.html" rel="nofollow">http://www.thegunzone.com/556xm.html</a></p>
+>  - XM193 product is first run, first quality product manufactured at Lake City Army Ammunition Plant for Federal Cartridge and is made to
+> Federal specifications typical for commercial ammunition.
+> 
+>  - All XM193 product is the same regardless of the sku or part number. (ie. XM193C is the same as XM193F, XM193CBP and etc…) The only
+> difference is the package configuration.
 
+I can find no concrete answer about (X)M855 however. I would assume that the same applies, but I have heard conflicting reports. It also comes in odd numbers (420 per can), in a can typically sized for belted 7.62 NATO, and it has no tracers (as opposed to the standard 4:1).
 
 
 

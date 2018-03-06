@@ -4,26 +4,27 @@
 - tagged: `ammunition`, `jamming`, `mosin-nagant`, `7.62mm`
 - score: 3
 
-<p>I bought some cheap 7.62X54R at a gun show and now I regret it. It totally jammed my Mosin-Nagant rifle. I had hard time getting just the spent casing out even with rod and mallet. Casing had some small crack on it after I knocked it out. </p>
+I bought some cheap 7.62X54R at a gun show and now I regret it. It totally jammed my Mosin-Nagant rifle. I had hard time getting just the spent casing out even with rod and mallet. Casing had some small crack on it after I knocked it out. 
 
-<p>I think it could be a good lesson on using cheap ammo.
-So before I get rid of remaining two boxes, I was wondering if anyone has an idea what kind of ammo it is. It has green casing with 54 at the top and something that looks like 'uxo' on the bottom. In comes in a cardboard box of 20 rounds with label glued on it that has following text:</p>
+I think it could be a good lesson on using cheap ammo.
+So before I get rid of remaining two boxes, I was wondering if anyone has an idea what kind of ammo it is. It has green casing with 54 at the top and something that looks like 'uxo' on the bottom. In comes in a cardboard box of 20 rounds with label glued on it that has following text:
 
-<pre><code>7.62 - Tž    29|54 - bxn
-tbpl|Fe         VI-54
-20 ks Nctp1.2x0,5|1.2 - KFnma 17|52 - 2,97 g
-</code></pre>
+    7.62 - Tž    29|54 - bxn
+    tbpl|Fe         VI-54
+    20 ks Nctp1.2x0,5|1.2 - KFnma 17|52 - 2,97 g
 
-<p>Has anyone met those?
-Can we make any conclusions from this markings to avoid buying similar ammo?</p>
+Has anyone met those?
+Can we make any conclusions from this markings to avoid buying similar ammo?
 
-<hr>
+---------
+Images of ammo and box.
 
-<p>Images of ammo and box.</p>
+![enter image description here][1]
+![enter image description here][2]
 
-<p><img src="http://i.stack.imgur.com/7wqT1.jpg" alt="enter image description here">
-<img src="http://i.stack.imgur.com/ukWOH.jpg" alt="enter image description here"></p>
 
+  [1]: http://i.stack.imgur.com/7wqT1.jpg
+  [2]: http://i.stack.imgur.com/ukWOH.jpg
 
 
 ## Answer 854

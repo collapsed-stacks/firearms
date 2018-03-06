@@ -4,12 +4,15 @@
 - tagged: `ammunition-reloading`
 - score: 3
 
-<p>For example, I recently saw a beautiful used Remington <a href="http://en.wikipedia.org/wiki/.350_Remington_Magnum" rel="nofollow">.350 Magnum</a> rifle for sale for a very reasonable price, and in excellent condition. However, when checking on the cost of ammunition, I only saw <a href="http://www.midwayusa.com/product/535879/nosler-custom-ammunition-350-remington-magnum-225-grain-partition-spitzer-box-of-20" rel="nofollow">Midway USA</a> having it in stock, and it's $60+ per box of 20 :(</p>
+For example, I recently saw a beautiful used Remington [.350 Magnum][1] rifle for sale for a very reasonable price, and in excellent condition. However, when checking on the cost of ammunition, I only saw [Midway USA][2] having it in stock, and it's $60+ per box of 20 :(
 
-<p>From reviewing the ballistics, and my own personal interest in "funky" calibers, this rifle has a lot of intrigue. However, the extremely high cost of factory ammunition pushes it down <em>my</em> list of possible acquisitions.</p>
+From reviewing the ballistics, and my own personal interest in "funky" calibers, this rifle has a lot of intrigue. However, the extremely high cost of factory ammunition pushes it down *my* list of possible acquisitions.
 
-<p>Excluding the cost of factory ammunition for the moment, what is the best way to evaluate the cost of use when looking at an "exotic" caliber? How can one most effectively determine defrayed and immediate reloading supplies costs, etc (presuming that the reloading press and powders are already beign acquired for other calibers)?</p>
+Excluding the cost of factory ammunition for the moment, what is the best way to evaluate the cost of use when looking at an "exotic" caliber? How can one most effectively determine defrayed and immediate reloading supplies costs, etc (presuming that the reloading press and powders are already beign acquired for other calibers)?
 
+
+  [1]: http://en.wikipedia.org/wiki/.350_Remington_Magnum
+  [2]: http://www.midwayusa.com/product/535879/nosler-custom-ammunition-350-remington-magnum-225-grain-partition-spitzer-box-of-20
 
 
 ## Answer 576

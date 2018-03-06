@@ -4,8 +4,10 @@
 - tagged: `pistols`, `stance`
 - score: 6
 
-<p>Correct me if I'm wrong, but <a href="http://1.bp.blogspot.com/-sAFI0tyTwFI/TfBNd-_OljI/AAAAAAAAAKY/0GHbzma6Eok/s1600/thug_sideways_pistol_aim.jpg"><strong>shooting a pistol in a hand-sideways stance</strong></a> (so that the knuckles of the shooting hand are parallel with the ground) looks like a poor way to achieve accuracy; I've only seen this in Hollywood films, which makes it even more dubious-looking...but is this or was this a valid form of shooting stance? Does anyone actually use it for practical purposes, or is this some kind of criminal/gang-land sort of shooting technique? Why would anyone want to shoot this way?</p>
+Correct me if I'm wrong, but [**shooting a pistol in a hand-sideways stance**][1] (so that the knuckles of the shooting hand are parallel with the ground) looks like a poor way to achieve accuracy; I've only seen this in Hollywood films, which makes it even more dubious-looking...but is this or was this a valid form of shooting stance? Does anyone actually use it for practical purposes, or is this some kind of criminal/gang-land sort of shooting technique? Why would anyone want to shoot this way?
 
+
+  [1]: http://1.bp.blogspot.com/-sAFI0tyTwFI/TfBNd-_OljI/AAAAAAAAAKY/0GHbzma6Eok/s1600/thug_sideways_pistol_aim.jpg
 
 
 ## Answer 532
